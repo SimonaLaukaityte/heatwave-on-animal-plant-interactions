@@ -1,0 +1,721 @@
+Sample ID	block	run	treatment	fauna	temp	cockles_nb	shrimps_nb	worms_nb	seed_nb	seed_depth	Germination1	value1	Germination2	value2
+1.1.1	.1	1	2 shrimp - control temp	SHRIMP	COLD	0	2	0	6	0.5	0_germ_perc		0_germ_perc	
+1.1.2	.1	1	worms  - control temp	WORM	COLD	0	0	3	6	0.5	0_germ_perc		0_germ_perc	
+1.1.3	.1	1	fauna mix - control temp	MIX	COLD	1	0	0	6	0.75	0_germ_perc	0	0_germ_perc	0
+1.1.4	.1	1	2 cockles - control temp	COCKLE	COLD	2	0	0	9	1	0_germ_perc		0_germ_perc	
+1.1.5	.1	1	no fauna-control temp	NO	COLD	0	0	0	11	0.454545455	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+1.10.1	10	1	fauna mix - warming	MIX	WARM	1	0	1	8	0.3125	0_germ_perc	0	0_germ_perc	0
+1.10.2	10	1	2 shrimp - warming	SHRIMP	WARM	0	0	1	12	0.375	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+1.10.3	10	1	worms  - warming	WORM	WARM	0	0	9	11	0.227272727	0_germ_perc	0.5	0_germ_perc	0.5
+1.10.4	10	1	2 cockles - warming	COCKLE	WARM	2	0	0	10	0.4	0_germ_perc	0	0_germ_perc	0
+1.10.5	10	1	no fauna - warming	NO	WARM	0	0	0	8	0.125	0_germ_perc	0	0_germ_perc	0
+1.11.1	11	1	fauna mix - warming	MIX	WARM	1	0	0	9	0.166666667	0_germ_perc	0	0_germ_perc	0
+1.11.2	11	1	no fauna - warming	NO	WARM	0	0	0	8	0.3125	0_germ_perc	0	0_germ_perc	0
+1.11.3	11	1	2 cockles - warming	COCKLE	WARM	2	0	0	10	0.3	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+1.11.4	11	1	no fauna - warming	NO	WARM	0	0	0	11	0.181818182	0_germ_perc	0.2	0_germ_perc	0.2
+1.11.5	11	1	2 shrimp - warming	SHRIMP	WARM	0	0	1	9	0	0_germ_perc	0	0_germ_perc	0
+1.12.1	12	1	fauna mix - warming	MIX	WARM	1	0	0	2	0.5	0_germ_perc		0_germ_perc	
+1.12.2	12	1	2 shrimp - warming	SHRIMP	WARM	0	0	0	8	0.125	0_germ_perc	0	0_germ_perc	0
+1.12.3	12	1	2 cockles - warming	COCKLE	WARM	2	0	0	8	0	0_germ_perc	0.285714286	0_germ_perc	0.285714286
+1.12.4	12	1	worms  - warming	WORM	WARM	0	0	8	9	0.555555556	0_germ_perc	1	0_germ_perc	1
+1.12.5	12	1	no fauna - warming	NO	WARM	0	0	1	9	1.555555556	0_germ_perc	0.5	0_germ_perc	0.5
+1.13.1	13	1	2 shrimp - warming	SHRIMP	WARM	0	1	0	12	0.291666667	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+1.13.2	13	1	fauna mix - warming	MIX	WARM	1	0	11	12	0.416666667	0_germ_perc		0_germ_perc	
+1.13.3	13	1	2 cockles - warming	COCKLE	WARM	2	0	0	14	0.464285714	0_germ_perc	0	0_germ_perc	0
+1.13.4	13	1	worms  - warming	WORM	WARM	0	0	5	10	0.3	0_germ_perc	0.25	0_germ_perc	0.25
+1.13.5	13	1	no fauna - warming	NO	WARM	0	0	5	10	0.25	0_germ_perc	0	0_germ_perc	0
+1.14.1	14	1	fauna mix - warming	MIX	WARM	1	0	0	13	0.423076923	0_germ_perc	1	0_germ_perc	1
+1.14.2	14	1	worms  - warming	WORM	WARM	0	0	0	3	0.166666667	0_germ_perc	1	0_germ_perc	1
+1.14.3	14	1	no fauna - warming	NO	WARM	0	2	0	7	0.5	0_germ_perc		0_germ_perc	
+1.14.4	14	1	2 shrimp - warming	SHRIMP	WARM	0	0	0	7	0.142857143	0_germ_perc	0	0_germ_perc	0
+1.14.5	14	1	2 cockles - warming	COCKLE	WARM	2	0	0	3	0	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+1.15.1	15	1	2 shrimp - warming	SHRIMP	WARM	0	1	0	9	0	0_germ_perc	0.5	0_germ_perc	0.5
+1.15.2	15	1	no fauna - warming	NO	WARM	0	0	0	10	0.05	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+1.15.3	15	1	fauna mix - warming	MIX	WARM	1	0	0	8	0.3125	0_germ_perc	0.5	0_germ_perc	0.5
+1.15.4	15	1	2 cockles - warming	COCKLE	WARM	2	0	0	8	0.25	0_germ_perc	0	0_germ_perc	0
+1.15.5	15	1	no fauna - warming	NO	WARM	0	0	0	7	0.285714286	0_germ_perc	0	0_germ_perc	0
+1.16.1	16	1	no fauna - warming	NO	WARM	0	0	0	7	0.214285714	0_germ_perc	0	0_germ_perc	0
+1.16.2	16	1	2 cockles - warming	COCKLE	WARM	1	0	0	9	0.277777778	0_germ_perc	0	0_germ_perc	0
+1.16.3	16	1	no fauna - warming	NO	WARM	0	0	0	13	0.230769231	0_germ_perc	0.166666667	0_germ_perc	0.166666667
+1.16.4	16	1	fauna mix - warming	MIX	WARM	1	0	0	10	0.35	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+1.16.5	16	1	2 shrimp - warming	SHRIMP	WARM	0	0	0	12	0.208333333	0_germ_perc	0.166666667	0_germ_perc	0.166666667
+1.2.1	.2	1	2 cockles - control temp	COCKLE	COLD	2	0	0	7	0.428571429	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+1.2.2	.2	1	worms  - control temp	WORM	COLD	0	0	12	8	0.6875	0_germ_perc	0.666666667	0_germ_perc	0.666666667
+1.2.3	.2	1	2 shrimp - control temp	SHRIMP	COLD	0	0	0	8	0.625	0_germ_perc	0	0_germ_perc	0
+1.2.4	.2	1	fauna mix - control temp	MIX	COLD	1	3	0	9	0.333333333	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+1.2.5	.2	1	no fauna-control temp	NO	COLD	0	0	0	8	0.25	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+1.3.1	.3	1	fauna mix - control temp	MIX	COLD	0	1	0	11	0.863636364	0_germ_perc	0.5	0_germ_perc	0.5
+1.3.2	.3	1	no fauna-control temp	NO	COLD	0	0	4	12	0.375	0_germ_perc	0	0_germ_perc	0
+1.3.3	.3	1	2 shrimp - control temp	SHRIMP	COLD	0	0	0	13	0.269230769	0_germ_perc	0.5	0_germ_perc	0.5
+1.3.4	.3	1	no fauna-control temp	NO	COLD	0	0	0	10	0.25	0_germ_perc	0.25	0_germ_perc	0.25
+1.3.5	.3	1	2 cockles - control temp	COCKLE	COLD	2	0	0	10	0.25	0_germ_perc	0.6	0_germ_perc	0.6
+1.4.1	.4	1	2 cockles - control temp	COCKLE	COLD	2	0	6	6	1.666666667	0_germ_perc		0_germ_perc	
+1.4.2	.4	1	worms  - control temp	WORM	COLD	0	0	3	9	0.444444444	0_germ_perc		0_germ_perc	
+1.4.3	.4	1	no fauna-control temp	NO	COLD	0	0	1	9	0.333333333	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+1.4.4	.4	1	fauna mix - control temp	MIX	COLD	1	1	4	9	0.555555556	0_germ_perc	0	0_germ_perc	0
+1.4.5	.4	1	2 shrimp - control temp	SHRIMP	COLD	0	1	4	7	0.357142857	0_germ_perc	0	0_germ_perc	0
+1.5.1	.5	1	2 cockles - control temp	COCKLE	COLD	2	0	0	11	0.363636364	0_germ_perc	0.666666667	0_germ_perc	0.666666667
+1.5.2	.5	1	worms  - control temp	WORM	COLD	0	0	0	6	0.25	0_germ_perc	0	0_germ_perc	0
+1.5.3	.5	1	no fauna-control temp	NO	COLD	0	0	0	7	0.142857143	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+1.5.4	.5	1	2 shrimp - control temp	SHRIMP	COLD	0	1	0	8	0.1875	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+1.5.5	.5	1	fauna mix - control temp	MIX	COLD	1	1	0	5	0.3	0_germ_perc	0	0_germ_perc	0
+1.6.1	.6	1	2 cockles - control temp	COCKLE	COLD	2	0	1	12	0.583333333	0_germ_perc		0_germ_perc	
+1.6.2	.6	1	no fauna-control temp	NO	COLD	0	0	0	11	0.454545455	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+1.6.3	.6	1	fauna mix - control temp	MIX	COLD	1	3	0	9	0.333333333	0_germ_perc	0	0_germ_perc	0
+1.6.4	.6	1	2 shrimp - control temp	SHRIMP	COLD	0	0	0	7	0.071428571	0_germ_perc	0.25	0_germ_perc	0.25
+1.6.5	.6	1	worms  - control temp	WORM	COLD	0	0	2	9	0.166666667	0_germ_perc	0	0_germ_perc	0
+1.7.1	.7	1	worms  - control temp	WORM	COLD	0	0	2	6	0.583333333	0_germ_perc		0_germ_perc	
+1.7.2	.7	1	2 shrimp - control temp	SHRIMP	COLD	0	2	5	7	0	0_germ_perc	0	0_germ_perc	0
+1.7.3	.7	1	2 cockles - control temp	COCKLE	COLD	2	0	0	11	0.272727273	0_germ_perc	0.666666667	0_germ_perc	0.666666667
+1.7.4	.7	1	no fauna-control temp	NO	COLD	0	0	0	7	0.714285714	0_germ_perc	0	0_germ_perc	0
+1.7.5	.7	1	fauna mix - control temp	MIX	COLD	1	1	0	8	0.125	0_germ_perc	0.666666667	0_germ_perc	0.666666667
+1.8.1	.8	1	no fauna-control temp	NO	COLD	0	1	0	14	0.214285714	0_germ_perc	0	0_germ_perc	0
+1.8.2	.8	1	worms  - control temp	WORM	COLD	0	0	2	10	0.25	0_germ_perc	0.5	0_germ_perc	0.5
+1.8.3	.8	1	2 cockles - control temp	COCKLE	COLD	2	0	9	10	0.5	0_germ_perc	0	0_germ_perc	0
+1.8.4	.8	1	2 shrimp - control temp	SHRIMP	COLD	0	0	0	10	0.5	0_germ_perc		0_germ_perc	
+1.8.5	.8	1	fauna mix - control temp	MIX	COLD	1	0	0	11	0.318181818	0_germ_perc	0.75	0_germ_perc	0.75
+1.9.1	.9	1	fauna mix - warming	MIX	WARM	1	1	0	10	0.45	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+1.9.2	.9	1	2 shrimp - warming	SHRIMP	WARM	0	2	0	16	0.4375	0_germ_perc	0	0_germ_perc	0
+1.9.3	.9	1	no fauna - warming	NO	WARM	0	0	0	9	0.388888889	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+1.9.4	.9	1	no fauna - warming	NO	WARM	0	0	0	10	0.1	0_germ_perc	0	0_germ_perc	0
+1.9.5	.9	1	2 cockles - warming	COCKLE	WARM	2	0	0	11	0.454545455	0_germ_perc	1	0_germ_perc	1
+2.1.1	.1	2	Worms-control temp	WORM	COLD	0	0	10	10	0	0_germ_perc	0.285714286	0_germ_perc	0.285714286
+2.1.2	.1	2	no fauna-control temp	NO	COLD	0	0	0	9	0.222222222	0_germ_perc	0.25	0_germ_perc	0.25
+2.1.3	.1	2	Mix-control temp	MIX	COLD	1	1	39	10	0.35	0_germ_perc	0	0_germ_perc	0
+2.1.4	.1	2	Shrimps-control temp	SHRIMP	COLD	0	0	0	11	0.090909091	0_germ_perc	0.571428571	0_germ_perc	0.571428571
+2.1.5	.1	2	Cockles-control temp	COCKLE	COLD	2	0	0	10	0.5	0_germ_perc	0.5	0_germ_perc	0.5
+2.10.1	10	2	no fauna-Warming	NO	WARM	0	0	0	4	0	0_germ_perc	0.25	0_germ_perc	0.25
+2.10.2	10	2	Shrimps-Warming	SHRIMP	WARM	0	0	0	10	0.1	0_germ_perc	0.166666667	0_germ_perc	0.166666667
+2.10.3	10	2	Mix-Warming	MIX	WARM	1	1	10	9	0.333333333	0_germ_perc	0	0_germ_perc	0
+2.10.4	10	2	Worms-Warming	WORM	WARM	0	0	2	10	0.85	0_germ_perc	0.5	0_germ_perc	0.5
+2.10.5	10	2	Cockles-Warming	COCKLE	WARM	2	0	0	13	0.884615385	0_germ_perc	0	0_germ_perc	0
+2.11.1	11	2	Mix-Warming	MIX	WARM	1	1	10	9	0.777777778	0_germ_perc		0_germ_perc	
+2.11.2	11	2	Shrimps-Warming	SHRIMP	WARM	0	1	0	11	0.181818182	0_germ_perc	0.142857143	0_germ_perc	0.142857143
+2.11.3	11	2	Worms-Warming	WORM	WARM	0	0	11	9	0	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+2.11.4	11	2	no fauna-Warming	NO	WARM	0	0	1	11	0.227272727	0_germ_perc	0.285714286	0_germ_perc	0.285714286
+2.11.5	11	2	Cockles-Warming	COCKLE	WARM	2	0	1	10	0.35	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+2.12.1	12	2	no fauna-Warming	NO	WARM	0	0	0	9	0	0_germ_perc	0	0_germ_perc	0
+2.12.2	12	2	Mix-Warming	MIX	WARM	1	2	5	10	0.55	0_germ_perc	0	0_germ_perc	0
+2.12.3	12	2	Shrimps-Warming	SHRIMP	WARM	0	1	0	10	0.25	0_germ_perc	0	0_germ_perc	0
+2.12.4	12	2	Cockles-Warming	COCKLE	WARM	2	0	2	10	0.65	0_germ_perc	1	0_germ_perc	1
+2.12.5	12	2	Worms-Warming	WORM	WARM	0	0	9	10	0.05	0_germ_perc	0.25	0_germ_perc	0.25
+2.13.1	13	2	Mix-Warming	MIX	WARM	1	1	9	11	0.909090909	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+2.13.2	13	2	Shrimps-Warming	SHRIMP	WARM	0	2	4	9	0.388888889	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+2.13.3	13	2	no fauna-Warming	NO	WARM	0	0	3	7	0	0_germ_perc	0	0_germ_perc	0
+2.13.4	13	2	Cockles-Warming	COCKLE	WARM	2	0	1	11	0.272727273	0_germ_perc	0.4	0_germ_perc	0.4
+2.13.5	13	2	Worms-Warming	WORM	WARM	0	0	17	9	0	0_germ_perc	0.125	0_germ_perc	0.125
+2.14.1	14	2	Shrimps-Warming	SHRIMP	WARM	0	1	0	8	0.1875	0_germ_perc	0	0_germ_perc	0
+2.14.2	14	2	Worms-Warming	WORM	WARM	0	0	2	8	0.125	0_germ_perc	0	0_germ_perc	0
+2.14.3	14	2	Cockles-Warming	COCKLE	WARM	2	0	0	10	0.5	0_germ_perc		0_germ_perc	
+2.14.4	14	2	Mix-Warming	MIX	WARM	1	1	2	9	0.333333333	0_germ_perc	0	0_germ_perc	0
+2.14.5	14	2	no fauna-Warming	NO	WARM	0	0	1	8	0.1875	0_germ_perc	0.25	0_germ_perc	0.25
+2.15.1	15	2	Mix-Warming	MIX	WARM	1	0	6	11	0.636363636	0_germ_perc	0	0_germ_perc	0
+2.15.2	15	2	Cockles-Warming	COCKLE	WARM	2	0	0	11	0.590909091	0_germ_perc		0_germ_perc	
+2.15.3	15	2	Shrimps-Warming	SHRIMP	WARM	0	0	1	12	0.083333333	0_germ_perc	0	0_germ_perc	0
+2.15.4	15	2	no fauna-Warming	NO	WARM	0	0	2	10	0	0_germ_perc	0.2	0_germ_perc	0.2
+2.15.5	15	2	Worms-Warming	WORM	WARM	0	0	12	9	0.166666667	0_germ_perc	0	0_germ_perc	0
+2.16.1	16	2	no fauna-Warming	NO	WARM	0	0	1	9	0.277777778	0_germ_perc	0	0_germ_perc	0
+2.16.2	16	2	Cockles-Warming	COCKLE	WARM	2	0	4	9	0.111111111	0_germ_perc	0.2	0_germ_perc	0.2
+2.16.3	16	2	Worms-Warming	WORM	WARM	0	0	4	11	0.227272727	0_germ_perc	0.5	0_germ_perc	0.5
+2.16.4	16	2	Shrimps-Warming	SHRIMP	WARM	0	2	3	8	0.125	0_germ_perc	0.5	0_germ_perc	0.5
+2.16.5	16	2	Mix-Warming	MIX	WARM	1	0	3	10	0.95	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+2.2.1	.2	2	Cockles-control temp	COCKLE	COLD	2	0	0	12	0.583333333	0_germ_perc	0	0_germ_perc	0
+2.2.2	.2	2	no fauna-control temp	NO	COLD	0	0	0	9	0.111111111	0_germ_perc	0	0_germ_perc	0
+2.2.3	.2	2	Worms-control temp	WORM	COLD	0	0	14	9	0.222222222	0_germ_perc	0.285714286	0_germ_perc	0.285714286
+2.2.4	.2	2	Shrimps-control temp	SHRIMP	COLD	0	2	0	8	0	0_germ_perc	0.285714286	0_germ_perc	0.285714286
+2.2.5	.2	2	Mix-control temp	MIX	COLD	1	1	13	10	0.1	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+2.3.1	.3	2	Worms-control temp	WORM	COLD	0	0	57	8	0.1875	0_germ_perc	0.142857143	0_germ_perc	0.142857143
+2.3.2	.3	2	Shrimps-control temp	SHRIMP	COLD	0	2	12	10	0.45	0_germ_perc	0	0_germ_perc	0
+2.3.3	.3	2	no fauna-control temp	NO	COLD	0	0	1	9	0.055555556	0_germ_perc	0.375	0_germ_perc	0.375
+2.3.4	.3	2	Mix-control temp	MIX	COLD	1	1	18	11	0.227272727	0_germ_perc	0	0_germ_perc	0
+2.3.5	.3	2	Cockles-control temp	COCKLE	COLD	2	0	0	10	0.2	0_germ_perc	0.2	0_germ_perc	0.2
+2.4.1	.4	2	Cockles-control temp	COCKLE	COLD	2	0	0	11	0.636363636	0_germ_perc	0	0_germ_perc	0
+2.4.2	.4	2	no fauna-control temp	NO	COLD	0	0	0	10	0	0_germ_perc	0.1	0_germ_perc	0.1
+2.4.3	.4	2	Mix-control temp	MIX	COLD	1	0	15	9	0.277777778	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+2.4.4	.4	2	Shrimps-control temp	SHRIMP	COLD	0	1	3	10	0.35	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+2.4.5	.4	2	Worms-control temp	WORM	COLD	0	0	12	10	0.2	0_germ_perc	0	0_germ_perc	0
+2.5.1	.5	2	Mix-control temp	MIX	COLD	1	1	26	8	0.1875	0_germ_perc	0	0_germ_perc	0
+2.5.2	.5	2	Worms-control temp	WORM	COLD	0	0	24	9	1.5	0_germ_perc	0	0_germ_perc	0
+2.5.3	.5	2	Cockles-control temp	COCKLE	COLD	2	0	6	10	0.6	0_germ_perc	0.5	0_germ_perc	0.5
+2.5.4	.5	2	Shrimps-control temp	SHRIMP	COLD	0	2	0	10	0.25	0_germ_perc	0	0_germ_perc	0
+2.5.5	.5	2	no fauna-control temp	NO	COLD	0	0	3	11	0.227272727	0_germ_perc	0.166666667	0_germ_perc	0.166666667
+2.6.1	.6	2	Shrimps-control temp	SHRIMP	COLD	0	1	4	8	0.0625	0_germ_perc	0.4	0_germ_perc	0.4
+2.6.2	.6	2	Cockles-control temp	COCKLE	COLD	2	0	5	9	0.444444444	0_germ_perc	0	0_germ_perc	0
+2.6.3	.6	2	Mix-control temp	MIX	COLD	1	1	4	10	0.4	0_germ_perc	0	0_germ_perc	0
+2.6.4	.6	2	no fauna-control temp	NO	COLD	0	0	2	7	0.071428571	0_germ_perc	0.166666667	0_germ_perc	0.166666667
+2.6.5	.6	2	Worms-control temp	WORM	COLD	0	0	27	10	2.2	0_germ_perc		0_germ_perc	
+2.7.1	.7	2	Shrimps-control temp	SHRIMP	COLD	0	1	0	9	0	0_germ_perc	0	0_germ_perc	0
+2.7.2	.7	2	Mix-control temp	MIX	COLD	1	1	14	13	0.153846154	0_germ_perc	0.5	0_germ_perc	0.5
+2.7.3	.7	2	Worms-control temp	WORM	COLD	0	0	79	12	0.166666667	0_germ_perc	0.166666667	0_germ_perc	0.166666667
+2.7.4	.7	2	Cockles-control temp	COCKLE	COLD	2	0	2	8	0.75	0_germ_perc		0_germ_perc	
+2.7.5	.7	2	no fauna-control temp	NO	COLD	0	0	0	10	0.25	0_germ_perc	0.4	0_germ_perc	0.4
+2.8.1	.8	2	Cockles-control temp	COCKLE	COLD	2	0	0	10	0.5	0_germ_perc	0	0_germ_perc	0
+2.8.2	.8	2	Shrimps-control temp	SHRIMP	COLD	0	2	10	10	0.3	0_germ_perc	0	0_germ_perc	0
+2.8.3	.8	2	Mix-control temp	MIX	COLD	1	0	22	13	0.153846154	0_germ_perc	0.166666667	0_germ_perc	0.166666667
+2.8.4	.8	2	Worms-control temp	WORM	COLD	0	0	53	11	0.272727273	0_germ_perc	0	0_germ_perc	0
+2.8.5	.8	2	no fauna-control temp	NO	COLD	0	0	0	10	0	0_germ_perc	0.3	0_germ_perc	0.3
+2.9.1	.9	2	Worms-Warming	WORM	WARM	0	0	31	11	0.227272727	0_germ_perc	0	0_germ_perc	0
+2.9.2	.9	2	no fauna-Warming	NO	WARM	0	0	15	10	0.2	0_germ_perc	0	0_germ_perc	0
+2.9.3	.9	2	Shrimps-Warming	SHRIMP	WARM	0	1	3	10	0.4	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+2.9.4	.9	2	Cockles-Warming	COCKLE	WARM	2	0	3	10	0.6	0_germ_perc	0	0_germ_perc	0
+2.9.5	.9	2	Mix-Warming	MIX	WARM	1	1	4	10	0.4	0_germ_perc	0.5	0_germ_perc	0.5
+3.1.1	.1	3	Worms  - control	WORM	COLD	0	0	2	8	0.125	0_germ_perc	0	0_germ_perc	0
+3.1.2	.1	3	No fauna – control	NO	COLD	0	0	20	8	0.5	0_germ_perc		0_germ_perc	
+3.1.3	.1	3	Mix - control	MIX	COLD	1	1	6	10	0.4	0_germ_perc	0	0_germ_perc	0
+3.1.4	.1	3	Cockles - control	COCKLE	COLD	2	0	0	10	0.65	0_germ_perc	0	0_germ_perc	0
+3.1.5	.1	3	Shrimps - control	SHRIMP	COLD	0	2	0	10	1.6	0_germ_perc		0_germ_perc	
+3.10.1	10	3	No fauna – warming	NO	WARM	0	0	0	5	0	0_germ_perc	0.5	0_germ_perc	0.5
+3.10.2	10	3	Mix – warming	MIX	WARM	1	0	0	10	0.4	0_germ_perc	0	0_germ_perc	0
+3.10.3	10	3	Cockles – warming	COCKLE	WARM	2	0	2	9	0.5	0_germ_perc		0_germ_perc	
+3.10.4	10	3	Shrimps – warming	SHRIMP	WARM	0	3	0	11	0.136363636	0_germ_perc	0	0_germ_perc	0
+3.10.5	10	3	Worms – warming	WORM	WARM	0	0	6	11	0.227272727	0_germ_perc	0	0_germ_perc	0
+3.11.1	11	3	Cockles – warming	COCKLE	WARM	2	0	3	9	0.5	0_germ_perc		0_germ_perc	
+3.11.2	11	3	Worms – warming	WORM	WARM	0	0	24	1	0	0_germ_perc	0	0_germ_perc	0
+3.11.3	11	3	Mix – warming	MIX	WARM	1	1	0	12	0.541666667	0_germ_perc	0	0_germ_perc	0
+3.11.4	11	3	No fauna – warming	NO	WARM	0	0	1	11	0.227272727	0_germ_perc	0	0_germ_perc	0
+3.11.5	11	3	Shrimps – warming	SHRIMP	WARM	0	0	0	10	0.1	0_germ_perc	0	0_germ_perc	0
+3.12.1	12	3	Cockles – control	COCKLE	COLD	2	0	1	11	0.681818182	0_germ_perc	0	0_germ_perc	0
+3.12.2	12	3	Shrimps – control	SHRIMP	COLD	0	3	11	11	0.545454545	0_germ_perc	0.2	0_germ_perc	0.2
+3.12.3	12	3	Worms  - control  	WORM	COLD	0	0	6	10	0.55	0_germ_perc	0	0_germ_perc	0
+3.12.4	12	3	No fauna – control	NO	COLD	0	0	3	10	0.15	0_germ_perc	0	0_germ_perc	0
+3.12.5	12	3	Mix – control	MIX	COLD	2	1	4	10	1.05	0_germ_perc	1	0_germ_perc	1
+3.13.1	13	3	Worms – warming	WORM	WARM	0	0	0	10	0.3	0_germ_perc	0	0_germ_perc	0
+3.13.2	13	3	No fauna – warming	NO	WARM	0	0	2	9	0	0_germ_perc	0.25	0_germ_perc	0.25
+3.13.3	13	3	Mix – warming	MIX	WARM	1	1	1	10	0.65	0_germ_perc	0	0_germ_perc	0
+3.13.4	13	3	Shrimps – warming	SHRIMP	WARM	0	2	0	10	0.25	0_germ_perc	0	0_germ_perc	0
+3.13.5	13	3	Cockles – warming	COCKLE	WARM	2	0	0	9	0.555555556	0_germ_perc	0	0_germ_perc	0
+3.14.1	14	3	Cockles – control	COCKLE	COLD	2	0	0	9	0.333333333	0_germ_perc	0	0_germ_perc	0
+3.14.2	14	3	Mix – control	MIX	COLD	1	2	12	11	0.363636364	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+3.14.3	14	3	Worms  - control	WORM	COLD	0	0	11	7	0.142857143	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+3.14.4	14	3	No fauna – control	NO	COLD	0	0	4	10	0.25	0_germ_perc	0	0_germ_perc	0
+3.14.5	14	3	Shrimps – control	SHRIMP	COLD	0	1	3	10	0.9	0_germ_perc	0	0_germ_perc	0
+3.15.1	15	3	Mix – warming	MIX	WARM	1	2	1	10	0.55	0_germ_perc	0.166666667	0_germ_perc	0.166666667
+3.15.2	15	3	Worms – warming	WORM	WARM	0	0	15	9	0.333333333	0_germ_perc	0	0_germ_perc	0
+3.15.3	15	3	Cockles – warming	COCKLE	WARM	2	0	4	10	0.9	0_germ_perc		0_germ_perc	
+3.15.4	15	3	No fauna – warming	NO	WARM	0	0	10	10	0.05	0_germ_perc	0.222222222	0_germ_perc	0.222222222
+3.15.5	15	3	Shrimps – warming	SHRIMP	WARM	0	4	8	10	0.35	0_germ_perc	0.5	0_germ_perc	0.5
+3.16.1	16	3	Shrimps – warming	SHRIMP	WARM	0	2	0	11	0.545454545	0_germ_perc	0	0_germ_perc	0
+3.16.2	16	3	No fauna – warming	NO	WARM	0	0	2	8	0	0_germ_perc	0	0_germ_perc	0
+3.16.3	16	3	Worms – warming	WORM	WARM	0	0	6	7	0	0_germ_perc	0.142857143	0_germ_perc	0.142857143
+3.16.4	16	3	Cockles – warming	COCKLE	WARM	2	0	4	10	1	0_germ_perc	0	0_germ_perc	0
+3.16.5	16	3	Mix – warming	MIX	WARM	1	2	0	11	0.863636364	0_germ_perc	1	0_germ_perc	1
+3.2.1	.2	3	Cockles – warming	COCKLE	WARM	2	0	2	10	0.45	0_germ_perc	0	0_germ_perc	0
+3.2.2	.2	3	Shrimps – warming	SHRIMP	WARM	0	4	0	10	0.05	0_germ_perc	0.25	0_germ_perc	0.25
+3.2.3	.2	3	Worms  - warming	WORM	WARM	0	0	12	10	0.15	0_germ_perc	0	0_germ_perc	0
+3.2.4	.2	3	No fauna – warming	NO	WARM	0	0	1	10	0.05	0_germ_perc	0	0_germ_perc	0
+3.2.5	.2	3	Mix – warming	MIX	WARM	1	2	4	10	0.7	0_germ_perc	0	0_germ_perc	0
+3.3.1	.3	3	Cockles – warming	COCKLE	WARM	2	0	7	5	0.8	0_germ_perc	0	0_germ_perc	0
+3.3.2	.3	3	Mix – warming	MIX	WARM	1	0	13	10	0.4	0_germ_perc	0	0_germ_perc	0
+3.3.3	.3	3	No fauna – warming	NO	WARM	0	0	2	9	0.222222222	0_germ_perc	0	0_germ_perc	0
+3.3.4	.3	3	Worms – warming	WORM	WARM	0	0	5	10	0.2	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+3.3.5	.3	3	Shrimps – warming	SHRIMP	WARM	0	2	3	10	0.3	0_germ_perc	0.25	0_germ_perc	0.25
+3.4.1	.4	3	Mix – control	MIX	COLD	1	1	2	10	0.35	0_germ_perc	0.2	0_germ_perc	0.2
+3.4.2	.4	3	Cockles – control	COCKLE	COLD	2	0	2	10	0.4	0_germ_perc	0	0_germ_perc	0
+3.4.3	.4	3	No fauna – control	NO	COLD	0	0	0	8	0.125	0_germ_perc	0	0_germ_perc	0
+3.4.4	.4	3	Worms  - control	WORM	COLD	0	0	10	10	0.15	0_germ_perc	0	0_germ_perc	0
+3.4.5	.4	3	Shrimps – control	SHRIMP	COLD	0	2	0	9	1.888888889	0_germ_perc		0_germ_perc	
+3.5.1	.5	3	No fauna – control	NO	COLD	0	0	0	9	0.333333333	0_germ_perc	0	0_germ_perc	0
+3.5.2	.5	3	Shrimps – control	SHRIMP	COLD	0	1	6	10	0.1	0_germ_perc	0.142857143	0_germ_perc	0.142857143
+3.5.3	.5	3	Mix - control	MIX	COLD	1	0	5	9	0.444444444	0_germ_perc	0	0_germ_perc	0
+3.5.4	.5	3	Worms  - control	WORM	COLD	0	0	7	12	0.291666667	0_germ_perc	0.4	0_germ_perc	0.4
+3.5.5	.5	3	Cockles – control	COCKLE	COLD	2	0	2	10	0.65	0_germ_perc		0_germ_perc	
+3.6.1	.6	3	Shrimps – control	SHRIMP	COLD	0	1	17	11	0.090909091	0_germ_perc	0	0_germ_perc	0
+3.6.2	.6	3	Worms  - control	WORM	COLD	0	0	74	5	0	0_germ_perc	0	0_germ_perc	0
+3.6.3	.6	3	Cockles – control	COCKLE	COLD	2	0	5	7	0.428571429	0_germ_perc	0	0_germ_perc	0
+3.6.4	.6	3	No fauna – control	NO	COLD	0	0	0	5	0.1	0_germ_perc	0.25	0_germ_perc	0.25
+3.6.5	.6	3	Mix – control	MIX	COLD	1	1	8	10	1.05	0_germ_perc	0	0_germ_perc	0
+3.7.1	.7	3	Mix – control	MIX	COLD	1	2	20	6	0.25	0_germ_perc	0	0_germ_perc	0
+3.7.2	.7	3	Worms  - control  	WORM	COLD	0	0	25	11	0.409090909	0_germ_perc	0.5	0_germ_perc	0.5
+3.7.3	.7	3	Cockles – control	COCKLE	COLD	2	0	1	9	1.333333333	0_germ_perc		0_germ_perc	
+3.7.4	.7	3	No fauna – control	NO	COLD	0	0	0	11	0	0_germ_perc	0	0_germ_perc	0
+3.7.5	.7	3	Shrimps – control	SHRIMP	COLD	0	2	0	9	0.222222222	0_germ_perc	0	0_germ_perc	0
+3.8.1	.8	3	Mix – control	MIX	COLD	1	2	0	11	0.136363636	0_germ_perc	0	0_germ_perc	0
+3.8.2	.8	3	No fauna – control	NO	COLD	0	1	0	8	0.25	0_germ_perc	0	0_germ_perc	0
+3.8.3	.8	3	Shrimps – control	SHRIMP	COLD	0	1	2	9	0.611111111	0_germ_perc	0	0_germ_perc	0
+3.8.4	.8	3	Cockles – control	COCKLE	COLD	2	0	2	10	0.35	0_germ_perc	0.5	0_germ_perc	0.5
+3.8.5	.8	3	Worms – control	WORM	COLD	0	0	9	10	0.1	0_germ_perc	0.333333333	0_germ_perc	0.333333333
+3.9.1	.9	3	No fauna – warming	NO	WARM	0	0	1	9	0.611111111	0_germ_perc		0_germ_perc	
+3.9.2	.9	3	Worms – warming	WORM	WARM	0	0	13	8	1.75	0_germ_perc	0	0_germ_perc	0
+3.9.3	.9	3	Cockles – warming	COCKLE	WARM	2	0	1	14	0.678571429	0_germ_perc	0.25	0_germ_perc	0.25
+3.9.4	.9	3	Mix – warming	MIX	WARM	1	0	5	9	0.444444444	0_germ_perc	0	0_germ_perc	0
+3.9.5	.9	3	Shrimps – warming	SHRIMP	WARM	0	3	0	8	1.4375	0_germ_perc		0_germ_perc	
+1.1.1	.1	1	2 shrimp - control temp	SHRIMP	COLD	0	2	0	6	0.5	germ_perc_deep	0	1_germ_perc	0
+1.1.2	.1	1	worms  - control temp	WORM	COLD	0	0	3	6	0.5	germ_perc_deep	0	1_germ_perc	0
+1.1.3	.1	1	fauna mix - control temp	MIX	COLD	1	0	0	6	0.75	germ_perc_deep	0	1_germ_perc	0
+1.1.4	.1	1	2 cockles - control temp	COCKLE	COLD	2	0	0	9	1	germ_perc_deep	0.111111111	1_germ_perc	0.125
+1.1.5	.1	1	no fauna-control temp	NO	COLD	0	0	0	11	0.454545455	germ_perc_deep	0.25	1_germ_perc	0.142857143
+1.10.1	10	1	fauna mix - warming	MIX	WARM	1	0	1	8	0.3125	germ_perc_deep	0	1_germ_perc	0
+1.10.2	10	1	2 shrimp - warming	SHRIMP	WARM	0	0	1	12	0.375	germ_perc_deep	0	1_germ_perc	0
+1.10.3	10	1	worms  - warming	WORM	WARM	0	0	9	11	0.227272727	germ_perc_deep	0	1_germ_perc	0
+1.10.4	10	1	2 cockles - warming	COCKLE	WARM	2	0	0	10	0.4	germ_perc_deep	0	1_germ_perc	0
+1.10.5	10	1	no fauna - warming	NO	WARM	0	0	0	8	0.125	germ_perc_deep	0	1_germ_perc	0
+1.11.1	11	1	fauna mix - warming	MIX	WARM	1	0	0	9	0.166666667	germ_perc_deep	0	1_germ_perc	0
+1.11.2	11	1	no fauna - warming	NO	WARM	0	0	0	8	0.3125	germ_perc_deep	0	1_germ_perc	0
+1.11.3	11	1	2 cockles - warming	COCKLE	WARM	2	0	0	10	0.3	germ_perc_deep	0	1_germ_perc	0
+1.11.4	11	1	no fauna - warming	NO	WARM	0	0	0	11	0.181818182	germ_perc_deep	0	1_germ_perc	0
+1.11.5	11	1	2 shrimp - warming	SHRIMP	WARM	0	0	1	9	0	germ_perc_deep		1_germ_perc	
+1.12.1	12	1	fauna mix - warming	MIX	WARM	1	0	0	2	0.5	germ_perc_deep		1_germ_perc	
+1.12.2	12	1	2 shrimp - warming	SHRIMP	WARM	0	0	0	8	0.125	germ_perc_deep	1	1_germ_perc	1
+1.12.3	12	1	2 cockles - warming	COCKLE	WARM	2	0	0	8	0	germ_perc_deep		1_germ_perc	
+1.12.4	12	1	worms  - warming	WORM	WARM	0	0	8	9	0.555555556	germ_perc_deep	0.125	1_germ_perc	0.142857143
+1.12.5	12	1	no fauna - warming	NO	WARM	0	0	1	9	1.555555556	germ_perc_deep	0	1_germ_perc	0
+1.13.1	13	1	2 shrimp - warming	SHRIMP	WARM	0	1	0	12	0.291666667	germ_perc_deep	0	1_germ_perc	0
+1.13.2	13	1	fauna mix - warming	MIX	WARM	1	0	11	12	0.416666667	germ_perc_deep	0.285714286	1_germ_perc	0.285714286
+1.13.3	13	1	2 cockles - warming	COCKLE	WARM	2	0	0	14	0.464285714	germ_perc_deep	0.166666667	1_germ_perc	0.166666667
+1.13.4	13	1	worms  - warming	WORM	WARM	0	0	5	10	0.3	germ_perc_deep	0.4	1_germ_perc	0.4
+1.13.5	13	1	no fauna - warming	NO	WARM	0	0	5	10	0.25	germ_perc_deep	0	1_germ_perc	0
+1.14.1	14	1	fauna mix - warming	MIX	WARM	1	0	0	13	0.423076923	germ_perc_deep	0.375	1_germ_perc	0.375
+1.14.2	14	1	worms  - warming	WORM	WARM	0	0	0	3	0.166666667	germ_perc_deep	1	1_germ_perc	1
+1.14.3	14	1	no fauna - warming	NO	WARM	0	2	0	7	0.5	germ_perc_deep	0.166666667	1_germ_perc	0.166666667
+1.14.4	14	1	2 shrimp - warming	SHRIMP	WARM	0	0	0	7	0.142857143	germ_perc_deep	0	1_germ_perc	0
+1.14.5	14	1	2 cockles - warming	COCKLE	WARM	2	0	0	3	0	germ_perc_deep		1_germ_perc	
+1.15.1	15	1	2 shrimp - warming	SHRIMP	WARM	0	1	0	9	0	germ_perc_deep		1_germ_perc	
+1.15.2	15	1	no fauna - warming	NO	WARM	0	0	0	10	0.05	germ_perc_deep	0	1_germ_perc	0
+1.15.3	15	1	fauna mix - warming	MIX	WARM	1	0	0	8	0.3125	germ_perc_deep	0.333333333	1_germ_perc	0.333333333
+1.15.4	15	1	2 cockles - warming	COCKLE	WARM	2	0	0	8	0.25	germ_perc_deep	0	1_germ_perc	0
+1.15.5	15	1	no fauna - warming	NO	WARM	0	0	0	7	0.285714286	germ_perc_deep	0	1_germ_perc	0
+1.16.1	16	1	no fauna - warming	NO	WARM	0	0	0	7	0.214285714	germ_perc_deep	0	1_germ_perc	0
+1.16.2	16	1	2 cockles - warming	COCKLE	WARM	1	0	0	9	0.277777778	germ_perc_deep	0	1_germ_perc	0
+1.16.3	16	1	no fauna - warming	NO	WARM	0	0	0	13	0.230769231	germ_perc_deep	0.166666667	1_germ_perc	0.166666667
+1.16.4	16	1	fauna mix - warming	MIX	WARM	1	0	0	10	0.35	germ_perc_deep	0	1_germ_perc	0
+1.16.5	16	1	2 shrimp - warming	SHRIMP	WARM	0	0	0	12	0.208333333	germ_perc_deep	0	1_germ_perc	0
+1.2.1	.2	1	2 cockles - control temp	COCKLE	COLD	2	0	0	7	0.428571429	germ_perc_deep	0.25	1_germ_perc	0.333333333
+1.2.2	.2	1	worms  - control temp	WORM	COLD	0	0	12	8	0.6875	germ_perc_deep	0	1_germ_perc	0
+1.2.3	.2	1	2 shrimp - control temp	SHRIMP	COLD	0	0	0	8	0.625	germ_perc_deep	0	1_germ_perc	0
+1.2.4	.2	1	fauna mix - control temp	MIX	COLD	1	3	0	9	0.333333333	germ_perc_deep	0.166666667	1_germ_perc	0.166666667
+1.2.5	.2	1	no fauna-control temp	NO	COLD	0	0	0	8	0.25	germ_perc_deep	0	1_germ_perc	0
+1.3.1	.3	1	fauna mix - control temp	MIX	COLD	0	1	0	11	0.863636364	germ_perc_deep	0	1_germ_perc	0
+1.3.2	.3	1	no fauna-control temp	NO	COLD	0	0	4	12	0.375	germ_perc_deep	0.6	1_germ_perc	0.6
+1.3.3	.3	1	2 shrimp - control temp	SHRIMP	COLD	0	0	0	13	0.269230769	germ_perc_deep	0.333333333	1_germ_perc	0.333333333
+1.3.4	.3	1	no fauna-control temp	NO	COLD	0	0	0	10	0.25	germ_perc_deep	0	1_germ_perc	0
+1.3.5	.3	1	2 cockles - control temp	COCKLE	COLD	2	0	0	10	0.25	germ_perc_deep	0	1_germ_perc	0
+1.4.1	.4	1	2 cockles - control temp	COCKLE	COLD	2	0	6	6	1.666666667	germ_perc_deep	0.166666667	1_germ_perc	
+1.4.2	.4	1	worms  - control temp	WORM	COLD	0	0	3	9	0.444444444	germ_perc_deep	0.375	1_germ_perc	0.375
+1.4.3	.4	1	no fauna-control temp	NO	COLD	0	0	1	9	0.333333333	germ_perc_deep	1	1_germ_perc	1
+1.4.4	.4	1	fauna mix - control temp	MIX	COLD	1	1	4	9	0.555555556	germ_perc_deep	0	1_germ_perc	0
+1.4.5	.4	1	2 shrimp - control temp	SHRIMP	COLD	0	1	4	7	0.357142857	germ_perc_deep	0	1_germ_perc	0
+1.5.1	.5	1	2 cockles - control temp	COCKLE	COLD	2	0	0	11	0.363636364	germ_perc_deep	0.333333333	1_germ_perc	0.333333333
+1.5.2	.5	1	worms  - control temp	WORM	COLD	0	0	0	6	0.25	germ_perc_deep	0	1_germ_perc	0
+1.5.3	.5	1	no fauna-control temp	NO	COLD	0	0	0	7	0.142857143	germ_perc_deep	0	1_germ_perc	0
+1.5.4	.5	1	2 shrimp - control temp	SHRIMP	COLD	0	1	0	8	0.1875	germ_perc_deep	0.333333333	1_germ_perc	0.333333333
+1.5.5	.5	1	fauna mix - control temp	MIX	COLD	1	1	0	5	0.3	germ_perc_deep	0.5	1_germ_perc	0.5
+1.6.1	.6	1	2 cockles - control temp	COCKLE	COLD	2	0	1	12	0.583333333	germ_perc_deep	0.142857143	1_germ_perc	0.166666667
+1.6.2	.6	1	no fauna-control temp	NO	COLD	0	0	0	11	0.454545455	germ_perc_deep	0.4	1_germ_perc	0.25
+1.6.3	.6	1	fauna mix - control temp	MIX	COLD	1	3	0	9	0.333333333	germ_perc_deep	0	1_germ_perc	0
+1.6.4	.6	1	2 shrimp - control temp	SHRIMP	COLD	0	0	0	7	0.071428571	germ_perc_deep	0	1_germ_perc	0
+1.6.5	.6	1	worms  - control temp	WORM	COLD	0	0	2	9	0.166666667	germ_perc_deep	0	1_germ_perc	0
+1.7.1	.7	1	worms  - control temp	WORM	COLD	0	0	2	6	0.583333333	germ_perc_deep	0	1_germ_perc	0
+1.7.2	.7	1	2 shrimp - control temp	SHRIMP	COLD	0	2	5	7	0	germ_perc_deep		1_germ_perc	
+1.7.3	.7	1	2 cockles - control temp	COCKLE	COLD	2	0	0	11	0.272727273	germ_perc_deep	0.333333333	1_germ_perc	0.333333333
+1.7.4	.7	1	no fauna-control temp	NO	COLD	0	0	0	7	0.714285714	germ_perc_deep	0	1_germ_perc	0
+1.7.5	.7	1	fauna mix - control temp	MIX	COLD	1	1	0	8	0.125	germ_perc_deep	1	1_germ_perc	1
+1.8.1	.8	1	no fauna-control temp	NO	COLD	0	1	0	14	0.214285714	germ_perc_deep	0	1_germ_perc	0
+1.8.2	.8	1	worms  - control temp	WORM	COLD	0	0	2	10	0.25	germ_perc_deep	0	1_germ_perc	0
+1.8.3	.8	1	2 cockles - control temp	COCKLE	COLD	2	0	9	10	0.5	germ_perc_deep	0	1_germ_perc	0
+1.8.4	.8	1	2 shrimp - control temp	SHRIMP	COLD	0	0	0	10	0.5	germ_perc_deep	0	1_germ_perc	0
+1.8.5	.8	1	fauna mix - control temp	MIX	COLD	1	0	0	11	0.318181818	germ_perc_deep	0	1_germ_perc	0
+1.9.1	.9	1	fauna mix - warming	MIX	WARM	1	1	0	10	0.45	germ_perc_deep	0	1_germ_perc	0
+1.9.2	.9	1	2 shrimp - warming	SHRIMP	WARM	0	2	0	16	0.4375	germ_perc_deep	0	1_germ_perc	0
+1.9.3	.9	1	no fauna - warming	NO	WARM	0	0	0	9	0.388888889	germ_perc_deep	0	1_germ_perc	0
+1.9.4	.9	1	no fauna - warming	NO	WARM	0	0	0	10	0.1	germ_perc_deep	1	1_germ_perc	1
+1.9.5	.9	1	2 cockles - warming	COCKLE	WARM	2	0	0	11	0.454545455	germ_perc_deep	0.2	1_germ_perc	0.2
+2.1.1	.1	2	Worms-control temp	WORM	COLD	0	0	10	10	0	germ_perc_deep		1_germ_perc	
+2.1.2	.1	2	no fauna-control temp	NO	COLD	0	0	0	9	0.222222222	germ_perc_deep	0.25	1_germ_perc	0.25
+2.1.3	.1	2	Mix-control temp	MIX	COLD	1	1	39	10	0.35	germ_perc_deep	0.5	1_germ_perc	0.5
+2.1.4	.1	2	Shrimps-control temp	SHRIMP	COLD	0	0	0	11	0.090909091	germ_perc_deep	0	1_germ_perc	0
+2.1.5	.1	2	Cockles-control temp	COCKLE	COLD	2	0	0	10	0.5	germ_perc_deep	0.142857143	1_germ_perc	0.166666667
+2.10.1	10	2	no fauna-Warming	NO	WARM	0	0	0	4	0	germ_perc_deep		1_germ_perc	
+2.10.2	10	2	Shrimps-Warming	SHRIMP	WARM	0	0	0	10	0.1	germ_perc_deep	0	1_germ_perc	0
+2.10.3	10	2	Mix-Warming	MIX	WARM	1	1	10	9	0.333333333	germ_perc_deep	0	1_germ_perc	0
+2.10.4	10	2	Worms-Warming	WORM	WARM	0	0	2	10	0.85	germ_perc_deep	0.25	1_germ_perc	0.285714286
+2.10.5	10	2	Cockles-Warming	COCKLE	WARM	2	0	0	13	0.884615385	germ_perc_deep	0.090909091	1_germ_perc	0.142857143
+2.11.1	11	2	Mix-Warming	MIX	WARM	1	1	10	9	0.777777778	germ_perc_deep	0	1_germ_perc	0
+2.11.2	11	2	Shrimps-Warming	SHRIMP	WARM	0	1	0	11	0.181818182	germ_perc_deep	0.5	1_germ_perc	0.5
+2.11.3	11	2	Worms-Warming	WORM	WARM	0	0	11	9	0	germ_perc_deep		1_germ_perc	
+2.11.4	11	2	no fauna-Warming	NO	WARM	0	0	1	11	0.227272727	germ_perc_deep	0	1_germ_perc	
+2.11.5	11	2	Cockles-Warming	COCKLE	WARM	2	0	1	10	0.35	germ_perc_deep	0.285714286	1_germ_perc	0.285714286
+2.12.1	12	2	no fauna-Warming	NO	WARM	0	0	0	9	0	germ_perc_deep		1_germ_perc	
+2.12.2	12	2	Mix-Warming	MIX	WARM	1	2	5	10	0.55	germ_perc_deep	0	1_germ_perc	0
+2.12.3	12	2	Shrimps-Warming	SHRIMP	WARM	0	1	0	10	0.25	germ_perc_deep	0	1_germ_perc	0
+2.12.4	12	2	Cockles-Warming	COCKLE	WARM	2	0	2	10	0.65	germ_perc_deep	0	1_germ_perc	0
+2.12.5	12	2	Worms-Warming	WORM	WARM	0	0	9	10	0.05	germ_perc_deep	0	1_germ_perc	0
+2.13.1	13	2	Mix-Warming	MIX	WARM	1	1	9	11	0.909090909	germ_perc_deep	0.333333333	1_germ_perc	0.333333333
+2.13.2	13	2	Shrimps-Warming	SHRIMP	WARM	0	2	4	9	0.388888889	germ_perc_deep	0	1_germ_perc	0
+2.13.3	13	2	no fauna-Warming	NO	WARM	0	0	3	7	0	germ_perc_deep		1_germ_perc	
+2.13.4	13	2	Cockles-Warming	COCKLE	WARM	2	0	1	11	0.272727273	germ_perc_deep	0.166666667	1_germ_perc	0.166666667
+2.13.5	13	2	Worms-Warming	WORM	WARM	0	0	17	9	0	germ_perc_deep		1_germ_perc	
+2.14.1	14	2	Shrimps-Warming	SHRIMP	WARM	0	1	0	8	0.1875	germ_perc_deep	0.5	1_germ_perc	0.5
+2.14.2	14	2	Worms-Warming	WORM	WARM	0	0	2	8	0.125	germ_perc_deep	0	1_germ_perc	0
+2.14.3	14	2	Cockles-Warming	COCKLE	WARM	2	0	0	10	0.5	germ_perc_deep	0.25	1_germ_perc	0.285714286
+2.14.4	14	2	Mix-Warming	MIX	WARM	1	1	2	9	0.333333333	germ_perc_deep	0	1_germ_perc	0
+2.14.5	14	2	no fauna-Warming	NO	WARM	0	0	1	8	0.1875	germ_perc_deep	0.333333333	1_germ_perc	0.333333333
+2.15.1	15	2	Mix-Warming	MIX	WARM	1	0	6	11	0.636363636	germ_perc_deep	0.142857143	1_germ_perc	0.142857143
+2.15.2	15	2	Cockles-Warming	COCKLE	WARM	2	0	0	11	0.590909091	germ_perc_deep	0.2	1_germ_perc	0.222222222
+2.15.3	15	2	Shrimps-Warming	SHRIMP	WARM	0	0	1	12	0.083333333	germ_perc_deep	0	1_germ_perc	0
+2.15.4	15	2	no fauna-Warming	NO	WARM	0	0	2	10	0	germ_perc_deep		1_germ_perc	
+2.15.5	15	2	Worms-Warming	WORM	WARM	0	0	12	9	0.166666667	germ_perc_deep	0	1_germ_perc	0
+2.16.1	16	2	no fauna-Warming	NO	WARM	0	0	1	9	0.277777778	germ_perc_deep	0.2	1_germ_perc	0.2
+2.16.2	16	2	Cockles-Warming	COCKLE	WARM	2	0	4	9	0.111111111	germ_perc_deep	0	1_germ_perc	0
+2.16.3	16	2	Worms-Warming	WORM	WARM	0	0	4	11	0.227272727	germ_perc_deep	0	1_germ_perc	0
+2.16.4	16	2	Shrimps-Warming	SHRIMP	WARM	0	2	3	8	0.125	germ_perc_deep		1_germ_perc	
+2.16.5	16	2	Mix-Warming	MIX	WARM	1	0	3	10	0.95	germ_perc_deep	0	1_germ_perc	0
+2.2.1	.2	2	Cockles-control temp	COCKLE	COLD	2	0	0	12	0.583333333	germ_perc_deep	0.285714286	1_germ_perc	0.333333333
+2.2.2	.2	2	no fauna-control temp	NO	COLD	0	0	0	9	0.111111111	germ_perc_deep	0	1_germ_perc	0
+2.2.3	.2	2	Worms-control temp	WORM	COLD	0	0	14	9	0.222222222	germ_perc_deep	1	1_germ_perc	1
+2.2.4	.2	2	Shrimps-control temp	SHRIMP	COLD	0	2	0	8	0	germ_perc_deep		1_germ_perc	
+2.2.5	.2	2	Mix-control temp	MIX	COLD	1	1	13	10	0.1	germ_perc_deep	0	1_germ_perc	0
+2.3.1	.3	2	Worms-control temp	WORM	COLD	0	0	57	8	0.1875	germ_perc_deep	0	1_germ_perc	
+2.3.2	.3	2	Shrimps-control temp	SHRIMP	COLD	0	2	12	10	0.45	germ_perc_deep	0	1_germ_perc	0
+2.3.3	.3	2	no fauna-control temp	NO	COLD	0	0	1	9	0.055555556	germ_perc_deep	0	1_germ_perc	0
+2.3.4	.3	2	Mix-control temp	MIX	COLD	1	1	18	11	0.227272727	germ_perc_deep	0.25	1_germ_perc	0.25
+2.3.5	.3	2	Cockles-control temp	COCKLE	COLD	2	0	0	10	0.2	germ_perc_deep	0.333333333	1_germ_perc	0.333333333
+2.4.1	.4	2	Cockles-control temp	COCKLE	COLD	2	0	0	11	0.636363636	germ_perc_deep	0.6	1_germ_perc	0.666666667
+2.4.2	.4	2	no fauna-control temp	NO	COLD	0	0	0	10	0	germ_perc_deep		1_germ_perc	
+2.4.3	.4	2	Mix-control temp	MIX	COLD	1	0	15	9	0.277777778	germ_perc_deep	0	1_germ_perc	0
+2.4.4	.4	2	Shrimps-control temp	SHRIMP	COLD	0	1	3	10	0.35	germ_perc_deep	0.2	1_germ_perc	0.2
+2.4.5	.4	2	Worms-control temp	WORM	COLD	0	0	12	10	0.2	germ_perc_deep	0.25	1_germ_perc	0.25
+2.5.1	.5	2	Mix-control temp	MIX	COLD	1	1	26	8	0.1875	germ_perc_deep	0	1_germ_perc	0
+2.5.2	.5	2	Worms-control temp	WORM	COLD	0	0	24	9	1.5	germ_perc_deep	0.142857143	1_germ_perc	
+2.5.3	.5	2	Cockles-control temp	COCKLE	COLD	2	0	6	10	0.6	germ_perc_deep	0.25	1_germ_perc	0.166666667
+2.5.4	.5	2	Shrimps-control temp	SHRIMP	COLD	0	2	0	10	0.25	germ_perc_deep	0.6	1_germ_perc	0.6
+2.5.5	.5	2	no fauna-control temp	NO	COLD	0	0	3	11	0.227272727	germ_perc_deep	0	1_germ_perc	0
+2.6.1	.6	2	Shrimps-control temp	SHRIMP	COLD	0	1	4	8	0.0625	germ_perc_deep	0	1_germ_perc	0
+2.6.2	.6	2	Cockles-control temp	COCKLE	COLD	2	0	5	9	0.444444444	germ_perc_deep	0.571428571	1_germ_perc	0.571428571
+2.6.3	.6	2	Mix-control temp	MIX	COLD	1	1	4	10	0.4	germ_perc_deep	0.142857143	1_germ_perc	0.142857143
+2.6.4	.6	2	no fauna-control temp	NO	COLD	0	0	2	7	0.071428571	germ_perc_deep	0	1_germ_perc	0
+2.6.5	.6	2	Worms-control temp	WORM	COLD	0	0	27	10	2.2	germ_perc_deep	0.3	1_germ_perc	0.25
+2.7.1	.7	2	Shrimps-control temp	SHRIMP	COLD	0	1	0	9	0	germ_perc_deep		1_germ_perc	
+2.7.2	.7	2	Mix-control temp	MIX	COLD	1	1	14	13	0.153846154	germ_perc_deep	0	1_germ_perc	0
+2.7.3	.7	2	Worms-control temp	WORM	COLD	0	0	79	12	0.166666667	germ_perc_deep	0	1_germ_perc	0
+2.7.4	.7	2	Cockles-control temp	COCKLE	COLD	2	0	2	8	0.75	germ_perc_deep	0	1_germ_perc	0
+2.7.5	.7	2	no fauna-control temp	NO	COLD	0	0	0	10	0.25	germ_perc_deep	0	1_germ_perc	0
+2.8.1	.8	2	Cockles-control temp	COCKLE	COLD	2	0	0	10	0.5	germ_perc_deep	0.2	1_germ_perc	0.25
+2.8.2	.8	2	Shrimps-control temp	SHRIMP	COLD	0	2	10	10	0.3	germ_perc_deep	0	1_germ_perc	0
+2.8.3	.8	2	Mix-control temp	MIX	COLD	1	0	22	13	0.153846154	germ_perc_deep	0	1_germ_perc	0
+2.8.4	.8	2	Worms-control temp	WORM	COLD	0	0	53	11	0.272727273	germ_perc_deep	0.166666667	1_germ_perc	0.166666667
+2.8.5	.8	2	no fauna-control temp	NO	COLD	0	0	0	10	0	germ_perc_deep		1_germ_perc	
+2.9.1	.9	2	Worms-Warming	WORM	WARM	0	0	31	11	0.227272727	germ_perc_deep	0	1_germ_perc	0
+2.9.2	.9	2	no fauna-Warming	NO	WARM	0	0	15	10	0.2	germ_perc_deep	0.25	1_germ_perc	0.25
+2.9.3	.9	2	Shrimps-Warming	SHRIMP	WARM	0	1	3	10	0.4	germ_perc_deep	0	1_germ_perc	0
+2.9.4	.9	2	Cockles-Warming	COCKLE	WARM	2	0	3	10	0.6	germ_perc_deep	0.428571429	1_germ_perc	0.5
+2.9.5	.9	2	Mix-Warming	MIX	WARM	1	1	4	10	0.4	germ_perc_deep	0.285714286	1_germ_perc	0.285714286
+3.1.1	.1	3	Worms  - control	WORM	COLD	0	0	2	8	0.125	germ_perc_deep	0	1_germ_perc	0
+3.1.2	.1	3	No fauna – control	NO	COLD	0	0	20	8	0.5	germ_perc_deep	0.125	1_germ_perc	0.125
+3.1.3	.1	3	Mix - control	MIX	COLD	1	1	6	10	0.4	germ_perc_deep	0	1_germ_perc	0
+3.1.4	.1	3	Cockles - control	COCKLE	COLD	2	0	0	10	0.65	germ_perc_deep	0.142857143	1_germ_perc	0.166666667
+3.1.5	.1	3	Shrimps - control	SHRIMP	COLD	0	2	0	10	1.6	germ_perc_deep	0	1_germ_perc	0
+3.10.1	10	3	No fauna – warming	NO	WARM	0	0	0	5	0	germ_perc_deep		1_germ_perc	
+3.10.2	10	3	Mix – warming	MIX	WARM	1	0	0	10	0.4	germ_perc_deep	0.2	1_germ_perc	0.25
+3.10.3	10	3	Cockles – warming	COCKLE	WARM	2	0	2	9	0.5	germ_perc_deep	0.125	1_germ_perc	0.125
+3.10.4	10	3	Shrimps – warming	SHRIMP	WARM	0	3	0	11	0.136363636	germ_perc_deep		1_germ_perc	
+3.10.5	10	3	Worms – warming	WORM	WARM	0	0	6	11	0.227272727	germ_perc_deep	0	1_germ_perc	0
+3.11.1	11	3	Cockles – warming	COCKLE	WARM	2	0	3	9	0.5	germ_perc_deep	0.333333333	1_germ_perc	0.333333333
+3.11.2	11	3	Worms – warming	WORM	WARM	0	0	24	1	0	germ_perc_deep		1_germ_perc	
+3.11.3	11	3	Mix – warming	MIX	WARM	1	1	0	12	0.541666667	germ_perc_deep	0.333333333	1_germ_perc	0.5
+3.11.4	11	3	No fauna – warming	NO	WARM	0	0	1	11	0.227272727	germ_perc_deep		1_germ_perc	
+3.11.5	11	3	Shrimps – warming	SHRIMP	WARM	0	0	0	10	0.1	germ_perc_deep	0	1_germ_perc	0
+3.12.1	12	3	Cockles – control	COCKLE	COLD	2	0	1	11	0.681818182	germ_perc_deep	0	1_germ_perc	0
+3.12.2	12	3	Shrimps – control	SHRIMP	COLD	0	3	11	11	0.545454545	germ_perc_deep	0.25	1_germ_perc	0
+3.12.3	12	3	Worms  - control  	WORM	COLD	0	0	6	10	0.55	germ_perc_deep	0.142857143	1_germ_perc	0.166666667
+3.12.4	12	3	No fauna – control	NO	COLD	0	0	3	10	0.15	germ_perc_deep	0	1_germ_perc	0
+3.12.5	12	3	Mix – control	MIX	COLD	2	1	4	10	1.05	germ_perc_deep	0	1_germ_perc	0
+3.13.1	13	3	Worms – warming	WORM	WARM	0	0	0	10	0.3	germ_perc_deep	0	1_germ_perc	0
+3.13.2	13	3	No fauna – warming	NO	WARM	0	0	2	9	0	germ_perc_deep		1_germ_perc	
+3.13.3	13	3	Mix – warming	MIX	WARM	1	1	1	10	0.65	germ_perc_deep	0	1_germ_perc	0
+3.13.4	13	3	Shrimps – warming	SHRIMP	WARM	0	2	0	10	0.25	germ_perc_deep	0	1_germ_perc	0
+3.13.5	13	3	Cockles – warming	COCKLE	WARM	2	0	0	9	0.555555556	germ_perc_deep	0.375	1_germ_perc	0.285714286
+3.14.1	14	3	Cockles – control	COCKLE	COLD	2	0	0	9	0.333333333	germ_perc_deep	0.6	1_germ_perc	0.6
+3.14.2	14	3	Mix – control	MIX	COLD	1	2	12	11	0.363636364	germ_perc_deep	0	1_germ_perc	0
+3.14.3	14	3	Worms  - control	WORM	COLD	0	0	11	7	0.142857143	germ_perc_deep	0	1_germ_perc	0
+3.14.4	14	3	No fauna – control	NO	COLD	0	0	4	10	0.25	germ_perc_deep	0	1_germ_perc	0
+3.14.5	14	3	Shrimps – control	SHRIMP	COLD	0	1	3	10	0.9	germ_perc_deep	0.166666667	1_germ_perc	0.2
+3.15.1	15	3	Mix – warming	MIX	WARM	1	2	1	10	0.55	germ_perc_deep	0.666666667	1_germ_perc	1
+3.15.2	15	3	Worms – warming	WORM	WARM	0	0	15	9	0.333333333	germ_perc_deep	0	1_germ_perc	0
+3.15.3	15	3	Cockles – warming	COCKLE	WARM	2	0	4	10	0.9	germ_perc_deep	0	1_germ_perc	0
+3.15.4	15	3	No fauna – warming	NO	WARM	0	0	10	10	0.05	germ_perc_deep	0	1_germ_perc	0
+3.15.5	15	3	Shrimps – warming	SHRIMP	WARM	0	4	8	10	0.35	germ_perc_deep	0	1_germ_perc	0
+3.16.1	16	3	Shrimps – warming	SHRIMP	WARM	0	2	0	11	0.545454545	germ_perc_deep	0	1_germ_perc	0
+3.16.2	16	3	No fauna – warming	NO	WARM	0	0	2	8	0	germ_perc_deep		1_germ_perc	
+3.16.3	16	3	Worms – warming	WORM	WARM	0	0	6	7	0	germ_perc_deep		1_germ_perc	
+3.16.4	16	3	Cockles – warming	COCKLE	WARM	2	0	4	10	1	germ_perc_deep	0	1_germ_perc	0
+3.16.5	16	3	Mix – warming	MIX	WARM	1	2	0	11	0.863636364	germ_perc_deep	0.166666667	1_germ_perc	0
+3.2.1	.2	3	Cockles – warming	COCKLE	WARM	2	0	2	10	0.45	germ_perc_deep	0	1_germ_perc	0
+3.2.2	.2	3	Shrimps – warming	SHRIMP	WARM	0	4	0	10	0.05	germ_perc_deep	0	1_germ_perc	0
+3.2.3	.2	3	Worms  - warming	WORM	WARM	0	0	12	10	0.15	germ_perc_deep	0	1_germ_perc	0
+3.2.4	.2	3	No fauna – warming	NO	WARM	0	0	1	10	0.05	germ_perc_deep	0	1_germ_perc	0
+3.2.5	.2	3	Mix – warming	MIX	WARM	1	2	4	10	0.7	germ_perc_deep	0	1_germ_perc	0
+3.3.1	.3	3	Cockles – warming	COCKLE	WARM	2	0	7	5	0.8	germ_perc_deep	0	1_germ_perc	0
+3.3.2	.3	3	Mix – warming	MIX	WARM	1	0	13	10	0.4	germ_perc_deep	0	1_germ_perc	0
+3.3.3	.3	3	No fauna – warming	NO	WARM	0	0	2	9	0.222222222	germ_perc_deep	0	1_germ_perc	0
+3.3.4	.3	3	Worms – warming	WORM	WARM	0	0	5	10	0.2	germ_perc_deep	0.333333333	1_germ_perc	0.333333333
+3.3.5	.3	3	Shrimps – warming	SHRIMP	WARM	0	2	3	10	0.3	germ_perc_deep	0	1_germ_perc	0
+3.4.1	.4	3	Mix – control	MIX	COLD	1	1	2	10	0.35	germ_perc_deep	0	1_germ_perc	0
+3.4.2	.4	3	Cockles – control	COCKLE	COLD	2	0	2	10	0.4	germ_perc_deep	0	1_germ_perc	0
+3.4.3	.4	3	No fauna – control	NO	COLD	0	0	0	8	0.125	germ_perc_deep	0	1_germ_perc	0
+3.4.4	.4	3	Worms  - control	WORM	COLD	0	0	10	10	0.15	germ_perc_deep	0	1_germ_perc	0
+3.4.5	.4	3	Shrimps – control	SHRIMP	COLD	0	2	0	9	1.888888889	germ_perc_deep	0	1_germ_perc	
+3.5.1	.5	3	No fauna – control	NO	COLD	0	0	0	9	0.333333333	germ_perc_deep	0	1_germ_perc	0
+3.5.2	.5	3	Shrimps – control	SHRIMP	COLD	0	1	6	10	0.1	germ_perc_deep	0	1_germ_perc	0
+3.5.3	.5	3	Mix - control	MIX	COLD	1	0	5	9	0.444444444	germ_perc_deep	0	1_germ_perc	0
+3.5.4	.5	3	Worms  - control	WORM	COLD	0	0	7	12	0.291666667	germ_perc_deep	0	1_germ_perc	0
+3.5.5	.5	3	Cockles – control	COCKLE	COLD	2	0	2	10	0.65	germ_perc_deep	0	1_germ_perc	0
+3.6.1	.6	3	Shrimps – control	SHRIMP	COLD	0	1	17	11	0.090909091	germ_perc_deep	0.5	1_germ_perc	0.5
+3.6.2	.6	3	Worms  - control	WORM	COLD	0	0	74	5	0	germ_perc_deep		1_germ_perc	
+3.6.3	.6	3	Cockles – control	COCKLE	COLD	2	0	5	7	0.428571429	germ_perc_deep	0	1_germ_perc	0
+3.6.4	.6	3	No fauna – control	NO	COLD	0	0	0	5	0.1	germ_perc_deep	0	1_germ_perc	0
+3.6.5	.6	3	Mix – control	MIX	COLD	1	1	8	10	1.05	germ_perc_deep	0	1_germ_perc	0
+3.7.1	.7	3	Mix – control	MIX	COLD	1	2	20	6	0.25	germ_perc_deep	0	1_germ_perc	0
+3.7.2	.7	3	Worms  - control  	WORM	COLD	0	0	25	11	0.409090909	germ_perc_deep	0.2	1_germ_perc	0.2
+3.7.3	.7	3	Cockles – control	COCKLE	COLD	2	0	1	9	1.333333333	germ_perc_deep	0.142857143	1_germ_perc	0.166666667
+3.7.4	.7	3	No fauna – control	NO	COLD	0	0	0	11	0	germ_perc_deep		1_germ_perc	
+3.7.5	.7	3	Shrimps – control	SHRIMP	COLD	0	2	0	9	0.222222222	germ_perc_deep	0	1_germ_perc	0
+3.8.1	.8	3	Mix – control	MIX	COLD	1	2	0	11	0.136363636	germ_perc_deep	0	1_germ_perc	0
+3.8.2	.8	3	No fauna – control	NO	COLD	0	1	0	8	0.25	germ_perc_deep	0	1_germ_perc	0
+3.8.3	.8	3	Shrimps – control	SHRIMP	COLD	0	1	2	9	0.611111111	germ_perc_deep	0	1_germ_perc	
+3.8.4	.8	3	Cockles – control	COCKLE	COLD	2	0	2	10	0.35	germ_perc_deep	0	1_germ_perc	0
+3.8.5	.8	3	Worms – control	WORM	COLD	0	0	9	10	0.1	germ_perc_deep	0	1_germ_perc	0
+3.9.1	.9	3	No fauna – warming	NO	WARM	0	0	1	9	0.611111111	germ_perc_deep	0.142857143	1_germ_perc	0.142857143
+3.9.2	.9	3	Worms – warming	WORM	WARM	0	0	13	8	1.75	germ_perc_deep	0	1_germ_perc	
+3.9.3	.9	3	Cockles – warming	COCKLE	WARM	2	0	1	14	0.678571429	germ_perc_deep	0.333333333	1_germ_perc	0
+3.9.4	.9	3	Mix – warming	MIX	WARM	1	0	5	9	0.444444444	germ_perc_deep	0	1_germ_perc	0
+3.9.5	.9	3	Shrimps – warming	SHRIMP	WARM	0	3	0	8	1.4375	germ_perc_deep	0	1_germ_perc	0
+1.1.1	.1	1	2 shrimp - control temp	SHRIMP	COLD	0	2	0	6	0.5			germ_perc_1-6	
+1.1.2	.1	1	worms  - control temp	WORM	COLD	0	0	3	6	0.5			germ_perc_1-6	
+1.1.3	.1	1	fauna mix - control temp	MIX	COLD	1	0	0	6	0.75			germ_perc_1-6	0
+1.1.4	.1	1	2 cockles - control temp	COCKLE	COLD	2	0	0	9	1			germ_perc_1-6	0
+1.1.5	.1	1	no fauna-control temp	NO	COLD	0	0	0	11	0.454545455			germ_perc_1-6	1
+1.10.1	10	1	fauna mix - warming	MIX	WARM	1	0	1	8	0.3125			germ_perc_1-6	
+1.10.2	10	1	2 shrimp - warming	SHRIMP	WARM	0	0	1	12	0.375			germ_perc_1-6	
+1.10.3	10	1	worms  - warming	WORM	WARM	0	0	9	11	0.227272727			germ_perc_1-6	
+1.10.4	10	1	2 cockles - warming	COCKLE	WARM	2	0	0	10	0.4			germ_perc_1-6	
+1.10.5	10	1	no fauna - warming	NO	WARM	0	0	0	8	0.125			germ_perc_1-6	
+1.11.1	11	1	fauna mix - warming	MIX	WARM	1	0	0	9	0.166666667			germ_perc_1-6	
+1.11.2	11	1	no fauna - warming	NO	WARM	0	0	0	8	0.3125			germ_perc_1-6	
+1.11.3	11	1	2 cockles - warming	COCKLE	WARM	2	0	0	10	0.3			germ_perc_1-6	
+1.11.4	11	1	no fauna - warming	NO	WARM	0	0	0	11	0.181818182			germ_perc_1-6	
+1.11.5	11	1	2 shrimp - warming	SHRIMP	WARM	0	0	1	9	0			germ_perc_1-6	
+1.12.1	12	1	fauna mix - warming	MIX	WARM	1	0	0	2	0.5			germ_perc_1-6	
+1.12.2	12	1	2 shrimp - warming	SHRIMP	WARM	0	0	0	8	0.125			germ_perc_1-6	
+1.12.3	12	1	2 cockles - warming	COCKLE	WARM	2	0	0	8	0			germ_perc_1-6	
+1.12.4	12	1	worms  - warming	WORM	WARM	0	0	8	9	0.555555556			germ_perc_1-6	0
+1.12.5	12	1	no fauna - warming	NO	WARM	0	0	1	9	1.555555556			germ_perc_1-6	0
+1.13.1	13	1	2 shrimp - warming	SHRIMP	WARM	0	1	0	12	0.291666667			germ_perc_1-6	
+1.13.2	13	1	fauna mix - warming	MIX	WARM	1	0	11	12	0.416666667			germ_perc_1-6	
+1.13.3	13	1	2 cockles - warming	COCKLE	WARM	2	0	0	14	0.464285714			germ_perc_1-6	
+1.13.4	13	1	worms  - warming	WORM	WARM	0	0	5	10	0.3			germ_perc_1-6	
+1.13.5	13	1	no fauna - warming	NO	WARM	0	0	5	10	0.25			germ_perc_1-6	
+1.14.1	14	1	fauna mix - warming	MIX	WARM	1	0	0	13	0.423076923			germ_perc_1-6	
+1.14.2	14	1	worms  - warming	WORM	WARM	0	0	0	3	0.166666667			germ_perc_1-6	
+1.14.3	14	1	no fauna - warming	NO	WARM	0	2	0	7	0.5			germ_perc_1-6	
+1.14.4	14	1	2 shrimp - warming	SHRIMP	WARM	0	0	0	7	0.142857143			germ_perc_1-6	
+1.14.5	14	1	2 cockles - warming	COCKLE	WARM	2	0	0	3	0			germ_perc_1-6	
+1.15.1	15	1	2 shrimp - warming	SHRIMP	WARM	0	1	0	9	0			germ_perc_1-6	
+1.15.2	15	1	no fauna - warming	NO	WARM	0	0	0	10	0.05			germ_perc_1-6	
+1.15.3	15	1	fauna mix - warming	MIX	WARM	1	0	0	8	0.3125			germ_perc_1-6	
+1.15.4	15	1	2 cockles - warming	COCKLE	WARM	2	0	0	8	0.25			germ_perc_1-6	
+1.15.5	15	1	no fauna - warming	NO	WARM	0	0	0	7	0.285714286			germ_perc_1-6	
+1.16.1	16	1	no fauna - warming	NO	WARM	0	0	0	7	0.214285714			germ_perc_1-6	
+1.16.2	16	1	2 cockles - warming	COCKLE	WARM	1	0	0	9	0.277777778			germ_perc_1-6	
+1.16.3	16	1	no fauna - warming	NO	WARM	0	0	0	13	0.230769231			germ_perc_1-6	
+1.16.4	16	1	fauna mix - warming	MIX	WARM	1	0	0	10	0.35			germ_perc_1-6	
+1.16.5	16	1	2 shrimp - warming	SHRIMP	WARM	0	0	0	12	0.208333333			germ_perc_1-6	
+1.2.1	.2	1	2 cockles - control temp	COCKLE	COLD	2	0	0	7	0.428571429			germ_perc_1-6	0
+1.2.2	.2	1	worms  - control temp	WORM	COLD	0	0	12	8	0.6875			germ_perc_1-6	0
+1.2.3	.2	1	2 shrimp - control temp	SHRIMP	COLD	0	0	0	8	0.625			germ_perc_1-6	0
+1.2.4	.2	1	fauna mix - control temp	MIX	COLD	1	3	0	9	0.333333333			germ_perc_1-6	
+1.2.5	.2	1	no fauna-control temp	NO	COLD	0	0	0	8	0.25			germ_perc_1-6	0
+1.3.1	.3	1	fauna mix - control temp	MIX	COLD	0	1	0	11	0.863636364			germ_perc_1-6	0
+1.3.2	.3	1	no fauna-control temp	NO	COLD	0	0	4	12	0.375			germ_perc_1-6	
+1.3.3	.3	1	2 shrimp - control temp	SHRIMP	COLD	0	0	0	13	0.269230769			germ_perc_1-6	
+1.3.4	.3	1	no fauna-control temp	NO	COLD	0	0	0	10	0.25			germ_perc_1-6	
+1.3.5	.3	1	2 cockles - control temp	COCKLE	COLD	2	0	0	10	0.25			germ_perc_1-6	
+1.4.1	.4	1	2 cockles - control temp	COCKLE	COLD	2	0	6	6	1.666666667			germ_perc_1-6	0.166666667
+1.4.2	.4	1	worms  - control temp	WORM	COLD	0	0	3	9	0.444444444			germ_perc_1-6	
+1.4.3	.4	1	no fauna-control temp	NO	COLD	0	0	1	9	0.333333333			germ_perc_1-6	
+1.4.4	.4	1	fauna mix - control temp	MIX	COLD	1	1	4	9	0.555555556			germ_perc_1-6	
+1.4.5	.4	1	2 shrimp - control temp	SHRIMP	COLD	0	1	4	7	0.357142857			germ_perc_1-6	
+1.5.1	.5	1	2 cockles - control temp	COCKLE	COLD	2	0	0	11	0.363636364			germ_perc_1-6	
+1.5.2	.5	1	worms  - control temp	WORM	COLD	0	0	0	6	0.25			germ_perc_1-6	
+1.5.3	.5	1	no fauna-control temp	NO	COLD	0	0	0	7	0.142857143			germ_perc_1-6	
+1.5.4	.5	1	2 shrimp - control temp	SHRIMP	COLD	0	1	0	8	0.1875			germ_perc_1-6	
+1.5.5	.5	1	fauna mix - control temp	MIX	COLD	1	1	0	5	0.3			germ_perc_1-6	
+1.6.1	.6	1	2 cockles - control temp	COCKLE	COLD	2	0	1	12	0.583333333			germ_perc_1-6	0
+1.6.2	.6	1	no fauna-control temp	NO	COLD	0	0	0	11	0.454545455			germ_perc_1-6	1
+1.6.3	.6	1	fauna mix - control temp	MIX	COLD	1	3	0	9	0.333333333			germ_perc_1-6	
+1.6.4	.6	1	2 shrimp - control temp	SHRIMP	COLD	0	0	0	7	0.071428571			germ_perc_1-6	
+1.6.5	.6	1	worms  - control temp	WORM	COLD	0	0	2	9	0.166666667			germ_perc_1-6	
+1.7.1	.7	1	worms  - control temp	WORM	COLD	0	0	2	6	0.583333333			germ_perc_1-6	
+1.7.2	.7	1	2 shrimp - control temp	SHRIMP	COLD	0	2	5	7	0			germ_perc_1-6	
+1.7.3	.7	1	2 cockles - control temp	COCKLE	COLD	2	0	0	11	0.272727273			germ_perc_1-6	
+1.7.4	.7	1	no fauna-control temp	NO	COLD	0	0	0	7	0.714285714			germ_perc_1-6	0
+1.7.5	.7	1	fauna mix - control temp	MIX	COLD	1	1	0	8	0.125			germ_perc_1-6	
+1.8.1	.8	1	no fauna-control temp	NO	COLD	0	1	0	14	0.214285714			germ_perc_1-6	0
+1.8.2	.8	1	worms  - control temp	WORM	COLD	0	0	2	10	0.25			germ_perc_1-6	
+1.8.3	.8	1	2 cockles - control temp	COCKLE	COLD	2	0	9	10	0.5			germ_perc_1-6	0
+1.8.4	.8	1	2 shrimp - control temp	SHRIMP	COLD	0	0	0	10	0.5			germ_perc_1-6	
+1.8.5	.8	1	fauna mix - control temp	MIX	COLD	1	0	0	11	0.318181818			germ_perc_1-6	0
+1.9.1	.9	1	fauna mix - warming	MIX	WARM	1	1	0	10	0.45			germ_perc_1-6	0
+1.9.2	.9	1	2 shrimp - warming	SHRIMP	WARM	0	2	0	16	0.4375			germ_perc_1-6	
+1.9.3	.9	1	no fauna - warming	NO	WARM	0	0	0	9	0.388888889			germ_perc_1-6	0
+1.9.4	.9	1	no fauna - warming	NO	WARM	0	0	0	10	0.1			germ_perc_1-6	
+1.9.5	.9	1	2 cockles - warming	COCKLE	WARM	2	0	0	11	0.454545455			germ_perc_1-6	
+2.1.1	.1	2	Worms-control temp	WORM	COLD	0	0	10	10	0			germ_perc_1-6	
+2.1.2	.1	2	no fauna-control temp	NO	COLD	0	0	0	9	0.222222222			germ_perc_1-6	
+2.1.3	.1	2	Mix-control temp	MIX	COLD	1	1	39	10	0.35			germ_perc_1-6	
+2.1.4	.1	2	Shrimps-control temp	SHRIMP	COLD	0	0	0	11	0.090909091			germ_perc_1-6	
+2.1.5	.1	2	Cockles-control temp	COCKLE	COLD	2	0	0	10	0.5			germ_perc_1-6	0
+2.10.1	10	2	no fauna-Warming	NO	WARM	0	0	0	4	0			germ_perc_1-6	
+2.10.2	10	2	Shrimps-Warming	SHRIMP	WARM	0	0	0	10	0.1			germ_perc_1-6	
+2.10.3	10	2	Mix-Warming	MIX	WARM	1	1	10	9	0.333333333			germ_perc_1-6	0
+2.10.4	10	2	Worms-Warming	WORM	WARM	0	0	2	10	0.85			germ_perc_1-6	0
+2.10.5	10	2	Cockles-Warming	COCKLE	WARM	2	0	0	13	0.884615385			germ_perc_1-6	0
+2.11.1	11	2	Mix-Warming	MIX	WARM	1	1	10	9	0.777777778			germ_perc_1-6	0
+2.11.2	11	2	Shrimps-Warming	SHRIMP	WARM	0	1	0	11	0.181818182			germ_perc_1-6	
+2.11.3	11	2	Worms-Warming	WORM	WARM	0	0	11	9	0			germ_perc_1-6	
+2.11.4	11	2	no fauna-Warming	NO	WARM	0	0	1	11	0.227272727			germ_perc_1-6	0
+2.11.5	11	2	Cockles-Warming	COCKLE	WARM	2	0	1	10	0.35			germ_perc_1-6	
+2.12.1	12	2	no fauna-Warming	NO	WARM	0	0	0	9	0			germ_perc_1-6	
+2.12.2	12	2	Mix-Warming	MIX	WARM	1	2	5	10	0.55			germ_perc_1-6	0
+2.12.3	12	2	Shrimps-Warming	SHRIMP	WARM	0	1	0	10	0.25			germ_perc_1-6	
+2.12.4	12	2	Cockles-Warming	COCKLE	WARM	2	0	2	10	0.65			germ_perc_1-6	0
+2.12.5	12	2	Worms-Warming	WORM	WARM	0	0	9	10	0.05			germ_perc_1-6	
+2.13.1	13	2	Mix-Warming	MIX	WARM	1	1	9	11	0.909090909			germ_perc_1-6	
+2.13.2	13	2	Shrimps-Warming	SHRIMP	WARM	0	2	4	9	0.388888889			germ_perc_1-6	
+2.13.3	13	2	no fauna-Warming	NO	WARM	0	0	3	7	0			germ_perc_1-6	
+2.13.4	13	2	Cockles-Warming	COCKLE	WARM	2	0	1	11	0.272727273			germ_perc_1-6	
+2.13.5	13	2	Worms-Warming	WORM	WARM	0	0	17	9	0			germ_perc_1-6	
+2.14.1	14	2	Shrimps-Warming	SHRIMP	WARM	0	1	0	8	0.1875			germ_perc_1-6	
+2.14.2	14	2	Worms-Warming	WORM	WARM	0	0	2	8	0.125			germ_perc_1-6	
+2.14.3	14	2	Cockles-Warming	COCKLE	WARM	2	0	0	10	0.5			germ_perc_1-6	0
+2.14.4	14	2	Mix-Warming	MIX	WARM	1	1	2	9	0.333333333			germ_perc_1-6	
+2.14.5	14	2	no fauna-Warming	NO	WARM	0	0	1	8	0.1875			germ_perc_1-6	
+2.15.1	15	2	Mix-Warming	MIX	WARM	1	0	6	11	0.636363636			germ_perc_1-6	
+2.15.2	15	2	Cockles-Warming	COCKLE	WARM	2	0	0	11	0.590909091			germ_perc_1-6	0
+2.15.3	15	2	Shrimps-Warming	SHRIMP	WARM	0	0	1	12	0.083333333			germ_perc_1-6	
+2.15.4	15	2	no fauna-Warming	NO	WARM	0	0	2	10	0			germ_perc_1-6	
+2.15.5	15	2	Worms-Warming	WORM	WARM	0	0	12	9	0.166666667			germ_perc_1-6	
+2.16.1	16	2	no fauna-Warming	NO	WARM	0	0	1	9	0.277777778			germ_perc_1-6	
+2.16.2	16	2	Cockles-Warming	COCKLE	WARM	2	0	4	9	0.111111111			germ_perc_1-6	
+2.16.3	16	2	Worms-Warming	WORM	WARM	0	0	4	11	0.227272727			germ_perc_1-6	
+2.16.4	16	2	Shrimps-Warming	SHRIMP	WARM	0	2	3	8	0.125			germ_perc_1-6	
+2.16.5	16	2	Mix-Warming	MIX	WARM	1	0	3	10	0.95			germ_perc_1-6	0
+2.2.1	.2	2	Cockles-control temp	COCKLE	COLD	2	0	0	12	0.583333333			germ_perc_1-6	0
+2.2.2	.2	2	no fauna-control temp	NO	COLD	0	0	0	9	0.111111111			germ_perc_1-6	
+2.2.3	.2	2	Worms-control temp	WORM	COLD	0	0	14	9	0.222222222			germ_perc_1-6	
+2.2.4	.2	2	Shrimps-control temp	SHRIMP	COLD	0	2	0	8	0			germ_perc_1-6	
+2.2.5	.2	2	Mix-control temp	MIX	COLD	1	1	13	10	0.1			germ_perc_1-6	
+2.3.1	.3	2	Worms-control temp	WORM	COLD	0	0	57	8	0.1875			germ_perc_1-6	0
+2.3.2	.3	2	Shrimps-control temp	SHRIMP	COLD	0	2	12	10	0.45			germ_perc_1-6	0
+2.3.3	.3	2	no fauna-control temp	NO	COLD	0	0	1	9	0.055555556			germ_perc_1-6	
+2.3.4	.3	2	Mix-control temp	MIX	COLD	1	1	18	11	0.227272727			germ_perc_1-6	
+2.3.5	.3	2	Cockles-control temp	COCKLE	COLD	2	0	0	10	0.2			germ_perc_1-6	
+2.4.1	.4	2	Cockles-control temp	COCKLE	COLD	2	0	0	11	0.636363636			germ_perc_1-6	0.5
+2.4.2	.4	2	no fauna-control temp	NO	COLD	0	0	0	10	0			germ_perc_1-6	
+2.4.3	.4	2	Mix-control temp	MIX	COLD	1	0	15	9	0.277777778			germ_perc_1-6	
+2.4.4	.4	2	Shrimps-control temp	SHRIMP	COLD	0	1	3	10	0.35			germ_perc_1-6	
+2.4.5	.4	2	Worms-control temp	WORM	COLD	0	0	12	10	0.2			germ_perc_1-6	
+2.5.1	.5	2	Mix-control temp	MIX	COLD	1	1	26	8	0.1875			germ_perc_1-6	
+2.5.2	.5	2	Worms-control temp	WORM	COLD	0	0	24	9	1.5			germ_perc_1-6	0.142857143
+2.5.3	.5	2	Cockles-control temp	COCKLE	COLD	2	0	6	10	0.6			germ_perc_1-6	0.5
+2.5.4	.5	2	Shrimps-control temp	SHRIMP	COLD	0	2	0	10	0.25			germ_perc_1-6	
+2.5.5	.5	2	no fauna-control temp	NO	COLD	0	0	3	11	0.227272727			germ_perc_1-6	
+2.6.1	.6	2	Shrimps-control temp	SHRIMP	COLD	0	1	4	8	0.0625			germ_perc_1-6	
+2.6.2	.6	2	Cockles-control temp	COCKLE	COLD	2	0	5	9	0.444444444			germ_perc_1-6	
+2.6.3	.6	2	Mix-control temp	MIX	COLD	1	1	4	10	0.4			germ_perc_1-6	
+2.6.4	.6	2	no fauna-control temp	NO	COLD	0	0	2	7	0.071428571			germ_perc_1-6	
+2.6.5	.6	2	Worms-control temp	WORM	COLD	0	0	27	10	2.2			germ_perc_1-6	0.333333333
+2.7.1	.7	2	Shrimps-control temp	SHRIMP	COLD	0	1	0	9	0			germ_perc_1-6	
+2.7.2	.7	2	Mix-control temp	MIX	COLD	1	1	14	13	0.153846154			germ_perc_1-6	
+2.7.3	.7	2	Worms-control temp	WORM	COLD	0	0	79	12	0.166666667			germ_perc_1-6	
+2.7.4	.7	2	Cockles-control temp	COCKLE	COLD	2	0	2	8	0.75			germ_perc_1-6	0
+2.7.5	.7	2	no fauna-control temp	NO	COLD	0	0	0	10	0.25			germ_perc_1-6	
+2.8.1	.8	2	Cockles-control temp	COCKLE	COLD	2	0	0	10	0.5			germ_perc_1-6	0
+2.8.2	.8	2	Shrimps-control temp	SHRIMP	COLD	0	2	10	10	0.3			germ_perc_1-6	0
+2.8.3	.8	2	Mix-control temp	MIX	COLD	1	0	22	13	0.153846154			germ_perc_1-6	
+2.8.4	.8	2	Worms-control temp	WORM	COLD	0	0	53	11	0.272727273			germ_perc_1-6	
+2.8.5	.8	2	no fauna-control temp	NO	COLD	0	0	0	10	0			germ_perc_1-6	
+2.9.1	.9	2	Worms-Warming	WORM	WARM	0	0	31	11	0.227272727			germ_perc_1-6	
+2.9.2	.9	2	no fauna-Warming	NO	WARM	0	0	15	10	0.2			germ_perc_1-6	
+2.9.3	.9	2	Shrimps-Warming	SHRIMP	WARM	0	1	3	10	0.4			germ_perc_1-6	
+2.9.4	.9	2	Cockles-Warming	COCKLE	WARM	2	0	3	10	0.6			germ_perc_1-6	0
+2.9.5	.9	2	Mix-Warming	MIX	WARM	1	1	4	10	0.4			germ_perc_1-6	
+3.1.1	.1	3	Worms  - control	WORM	COLD	0	0	2	8	0.125			germ_perc_1-6	
+3.1.2	.1	3	No fauna – control	NO	COLD	0	0	20	8	0.5			germ_perc_1-6	
+3.1.3	.1	3	Mix - control	MIX	COLD	1	1	6	10	0.4			germ_perc_1-6	
+3.1.4	.1	3	Cockles - control	COCKLE	COLD	2	0	0	10	0.65			germ_perc_1-6	0
+3.1.5	.1	3	Shrimps - control	SHRIMP	COLD	0	2	0	10	1.6			germ_perc_1-6	0
+3.10.1	10	3	No fauna – warming	NO	WARM	0	0	0	5	0			germ_perc_1-6	
+3.10.2	10	3	Mix – warming	MIX	WARM	1	0	0	10	0.4			germ_perc_1-6	0
+3.10.3	10	3	Cockles – warming	COCKLE	WARM	2	0	2	9	0.5			germ_perc_1-6	
+3.10.4	10	3	Shrimps – warming	SHRIMP	WARM	0	3	0	11	0.136363636			germ_perc_1-6	
+3.10.5	10	3	Worms – warming	WORM	WARM	0	0	6	11	0.227272727			germ_perc_1-6	
+3.11.1	11	3	Cockles – warming	COCKLE	WARM	2	0	3	9	0.5			germ_perc_1-6	
+3.11.2	11	3	Worms – warming	WORM	WARM	0	0	24	1	0			germ_perc_1-6	
+3.11.3	11	3	Mix – warming	MIX	WARM	1	1	0	12	0.541666667			germ_perc_1-6	0
+3.11.4	11	3	No fauna – warming	NO	WARM	0	0	1	11	0.227272727			germ_perc_1-6	
+3.11.5	11	3	Shrimps – warming	SHRIMP	WARM	0	0	0	10	0.1			germ_perc_1-6	
+3.12.1	12	3	Cockles – control	COCKLE	COLD	2	0	1	11	0.681818182			germ_perc_1-6	0
+3.12.2	12	3	Shrimps – control	SHRIMP	COLD	0	3	11	11	0.545454545			germ_perc_1-6	0.333333333
+3.12.3	12	3	Worms  - control  	WORM	COLD	0	0	6	10	0.55			germ_perc_1-6	0
+3.12.4	12	3	No fauna – control	NO	COLD	0	0	3	10	0.15			germ_perc_1-6	
+3.12.5	12	3	Mix – control	MIX	COLD	2	1	4	10	1.05			germ_perc_1-6	0
+3.13.1	13	3	Worms – warming	WORM	WARM	0	0	0	10	0.3			germ_perc_1-6	
+3.13.2	13	3	No fauna – warming	NO	WARM	0	0	2	9	0			germ_perc_1-6	
+3.13.3	13	3	Mix – warming	MIX	WARM	1	1	1	10	0.65			germ_perc_1-6	0
+3.13.4	13	3	Shrimps – warming	SHRIMP	WARM	0	2	0	10	0.25			germ_perc_1-6	
+3.13.5	13	3	Cockles – warming	COCKLE	WARM	2	0	0	9	0.555555556			germ_perc_1-6	1
+3.14.1	14	3	Cockles – control	COCKLE	COLD	2	0	0	9	0.333333333			germ_perc_1-6	
+3.14.2	14	3	Mix – control	MIX	COLD	1	2	12	11	0.363636364			germ_perc_1-6	
+3.14.3	14	3	Worms  - control	WORM	COLD	0	0	11	7	0.142857143			germ_perc_1-6	
+3.14.4	14	3	No fauna – control	NO	COLD	0	0	4	10	0.25			germ_perc_1-6	
+3.14.5	14	3	Shrimps – control	SHRIMP	COLD	0	1	3	10	0.9			germ_perc_1-6	0
+3.15.1	15	3	Mix – warming	MIX	WARM	1	2	1	10	0.55			germ_perc_1-6	0.5
+3.15.2	15	3	Worms – warming	WORM	WARM	0	0	15	9	0.333333333			germ_perc_1-6	
+3.15.3	15	3	Cockles – warming	COCKLE	WARM	2	0	4	10	0.9			germ_perc_1-6	0
+3.15.4	15	3	No fauna – warming	NO	WARM	0	0	10	10	0.05			germ_perc_1-6	
+3.15.5	15	3	Shrimps – warming	SHRIMP	WARM	0	4	8	10	0.35			germ_perc_1-6	
+3.16.1	16	3	Shrimps – warming	SHRIMP	WARM	0	2	0	11	0.545454545			germ_perc_1-6	
+3.16.2	16	3	No fauna – warming	NO	WARM	0	0	2	8	0			germ_perc_1-6	
+3.16.3	16	3	Worms – warming	WORM	WARM	0	0	6	7	0			germ_perc_1-6	
+3.16.4	16	3	Cockles – warming	COCKLE	WARM	2	0	4	10	1			germ_perc_1-6	0
+3.16.5	16	3	Mix – warming	MIX	WARM	1	2	0	11	0.863636364			germ_perc_1-6	0.5
+3.2.1	.2	3	Cockles – warming	COCKLE	WARM	2	0	2	10	0.45			germ_perc_1-6	
+3.2.2	.2	3	Shrimps – warming	SHRIMP	WARM	0	4	0	10	0.05			germ_perc_1-6	
+3.2.3	.2	3	Worms  - warming	WORM	WARM	0	0	12	10	0.15			germ_perc_1-6	
+3.2.4	.2	3	No fauna – warming	NO	WARM	0	0	1	10	0.05			germ_perc_1-6	
+3.2.5	.2	3	Mix – warming	MIX	WARM	1	2	4	10	0.7			germ_perc_1-6	
+3.3.1	.3	3	Cockles – warming	COCKLE	WARM	2	0	7	5	0.8			germ_perc_1-6	0
+3.3.2	.3	3	Mix – warming	MIX	WARM	1	0	13	10	0.4			germ_perc_1-6	
+3.3.3	.3	3	No fauna – warming	NO	WARM	0	0	2	9	0.222222222			germ_perc_1-6	
+3.3.4	.3	3	Worms – warming	WORM	WARM	0	0	5	10	0.2			germ_perc_1-6	
+3.3.5	.3	3	Shrimps – warming	SHRIMP	WARM	0	2	3	10	0.3			germ_perc_1-6	
+3.4.1	.4	3	Mix – control	MIX	COLD	1	1	2	10	0.35			germ_perc_1-6	
+3.4.2	.4	3	Cockles – control	COCKLE	COLD	2	0	2	10	0.4			germ_perc_1-6	0
+3.4.3	.4	3	No fauna – control	NO	COLD	0	0	0	8	0.125			germ_perc_1-6	
+3.4.4	.4	3	Worms  - control	WORM	COLD	0	0	10	10	0.15			germ_perc_1-6	
+3.4.5	.4	3	Shrimps – control	SHRIMP	COLD	0	2	0	9	1.888888889			germ_perc_1-6	0
+3.5.1	.5	3	No fauna – control	NO	COLD	0	0	0	9	0.333333333			germ_perc_1-6	
+3.5.2	.5	3	Shrimps – control	SHRIMP	COLD	0	1	6	10	0.1			germ_perc_1-6	
+3.5.3	.5	3	Mix - control	MIX	COLD	1	0	5	9	0.444444444			germ_perc_1-6	
+3.5.4	.5	3	Worms  - control	WORM	COLD	0	0	7	12	0.291666667			germ_perc_1-6	
+3.5.5	.5	3	Cockles – control	COCKLE	COLD	2	0	2	10	0.65			germ_perc_1-6	0
+3.6.1	.6	3	Shrimps – control	SHRIMP	COLD	0	1	17	11	0.090909091			germ_perc_1-6	
+3.6.2	.6	3	Worms  - control	WORM	COLD	0	0	74	5	0			germ_perc_1-6	
+3.6.3	.6	3	Cockles – control	COCKLE	COLD	2	0	5	7	0.428571429			germ_perc_1-6	
+3.6.4	.6	3	No fauna – control	NO	COLD	0	0	0	5	0.1			germ_perc_1-6	
+3.6.5	.6	3	Mix – control	MIX	COLD	1	1	8	10	1.05			germ_perc_1-6	0
+3.7.1	.7	3	Mix – control	MIX	COLD	1	2	20	6	0.25			germ_perc_1-6	
+3.7.2	.7	3	Worms  - control  	WORM	COLD	0	0	25	11	0.409090909			germ_perc_1-6	
+3.7.3	.7	3	Cockles – control	COCKLE	COLD	2	0	1	9	1.333333333			germ_perc_1-6	0
+3.7.4	.7	3	No fauna – control	NO	COLD	0	0	0	11	0			germ_perc_1-6	
+3.7.5	.7	3	Shrimps – control	SHRIMP	COLD	0	2	0	9	0.222222222			germ_perc_1-6	
+3.8.1	.8	3	Mix – control	MIX	COLD	1	2	0	11	0.136363636			germ_perc_1-6	
+3.8.2	.8	3	No fauna – control	NO	COLD	0	1	0	8	0.25			germ_perc_1-6	
+3.8.3	.8	3	Shrimps – control	SHRIMP	COLD	0	1	2	9	0.611111111			germ_perc_1-6	0
+3.8.4	.8	3	Cockles – control	COCKLE	COLD	2	0	2	10	0.35			germ_perc_1-6	
+3.8.5	.8	3	Worms – control	WORM	COLD	0	0	9	10	0.1			germ_perc_1-6	
+3.9.1	.9	3	No fauna – warming	NO	WARM	0	0	1	9	0.611111111			germ_perc_1-6	
+3.9.2	.9	3	Worms – warming	WORM	WARM	0	0	13	8	1.75			germ_perc_1-6	0
+3.9.3	.9	3	Cockles – warming	COCKLE	WARM	2	0	1	14	0.678571429			germ_perc_1-6	0.5
+3.9.4	.9	3	Mix – warming	MIX	WARM	1	0	5	9	0.444444444			germ_perc_1-6	
+3.9.5	.9	3	Shrimps – warming	SHRIMP	WARM	0	3	0	8	1.4375			germ_perc_1-6	0
